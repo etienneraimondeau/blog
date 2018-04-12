@@ -18,10 +18,10 @@
 				<p>{{ page.description }}</p>
 			</header>
 			<ul id="scene1" class="scene">
-				<li data-depth="0" class="layer"><object data="/assets/images/lab_meat/Labmeat-Banner-01.svg"></object></li>
-				<li data-depth="0.25" class="layer"><object data="/assets/images/lab_meat/Labmeat-Banner-02.svg"></object></li>
-				<li data-depth="0.5" class="layer"><object data="/assets/images/lab_meat/Labmeat-Banner-03.svg"></object></li>
-				<li data-depth="0.75" class="layer"><object data="/assets/images/lab_meat/Labmeat-Banner-04.svg"></object></li>
+				<li data-depth="0" class="layer"><object data="{{ "/assets/images/lab_meat/Labmeat-Banner-01.svg" | relative_url }}"></object></li>
+				<li data-depth="0.25" class="layer"><object data="{{ "/assets/images/lab_meat/Labmeat-Banner-02.svg" | relative_url }}"></object></li>
+				<li data-depth="0.5" class="layer"><object data="{{ "/assets/images/lab_meat/Labmeat-Banner-03.svg" | relative_url }}"></object></li>
+				<li data-depth="0.75" class="layer"><object data="{{ "/assets/images/lab_meat/Labmeat-Banner-04.svg" | relative_url }}"></object></li>
 			</ul>
 </section>
 
@@ -38,7 +38,7 @@
 
     {% include footer.html %}
 
-	<script src="{{ "assets/js/parallax.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/parallax.min.js" | relative_url }}"></script>
 	<script>
 		var scene = document.getElementById('scene1');
 		var parallax = new Parallax(scene1);

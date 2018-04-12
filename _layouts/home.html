@@ -6,7 +6,7 @@
 -->
 <html> 
 
-{% include head.html %}
+{% include head.html %} 
 
 <body>
 
@@ -20,7 +20,7 @@
             </span>
             <header class="major">
                <!-- <h2>Read about the latest work: </h2><br />-->
-                <h1><a href="{{site.posts.first.url}}">{{ site.posts.first.title }}</a></h1>
+                <h1><a href="{{site.posts.first.url  | relative_url }}">{{ site.posts.first.title }}</a></h1>
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.posts.first.description }}</p>
@@ -44,8 +44,8 @@
         <section id="two">
             <div class="inner" style="text-align: center;">
     <ul class="actions">
-        <!--<li><a href="#" class="button special fit">Get Started</a></li>-->
-        <li><a href="#" class="button subscribe">Get updates from LaPipette!</a></li>
+        <!--<li><a href="#" class="button special fit">Get Started</a></li>
+        <li><a href="#" class="button subscribe">Get updates from LaPipette!</a></li>-->
         <li></li>
     </ul>
             </div>
