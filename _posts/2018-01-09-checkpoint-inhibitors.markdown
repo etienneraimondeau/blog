@@ -16,4 +16,4 @@ Checkpoint inhibitors have yielded impressive results in a certain percentage of
 
 But given most of these approaches are still in early stages of research, it is important to not let hype drive expectations too high and take the time to understand exactly how these drugs work, with their benefits as well as their side effects and other disadvantages like expensive prices. There is a lot going on in the field, so we decided to put all the essentials in this infographic to make it easier to process for everyone. Enjoy!
 
-![My helpful checkpoint inhibitor infographic](assets/images/Checkpoints_inhibitors/171220_Checkpoint_150p.png)
+![My helpful checkpoint inhibitor infographic](assets/images/checkpoints_inhibitors/171220_Checkpoint_150p.png)
