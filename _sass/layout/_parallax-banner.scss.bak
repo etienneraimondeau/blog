@@ -1,0 +1,141 @@
+/* Parallax Banner */
+
+#parallax-banner {
+		margin-bottom: 0;
+		padding-bottom: 0;
+		max-height: 32em;
+		min-height: 22em;
+		height: 600px;
+		display:block;
+
+		.scene {	    
+		    overflow: hidden;
+		    width: 100%;
+		}
+
+		.layer {
+    		position: relative;
+    	}
+
+		header {
+			@include vendor('transform', 'translateX(-0.5em)');
+			position: absolute;
+   			z-index: 2;
+			display:block;
+			overflow: hidden; 
+			margin-left: 7%;
+			margin-top:7%;
+			padding: 8em, 0, 0, 0;
+		}
+
+		h1 {
+			font-size: 3.25em;
+			padding-top: 10vh;
+
+
+		}
+
+		p {
+			font-size: 0.7em;
+			font-weight: _font(weight-bold);
+			letter-spacing: _font(letter-spacing-alt);
+			margin-bottom: 0;
+			text-transform: uppercase;
+		}
+
+		ul {
+			list-style-type:none;
+			margin:0;
+			padding:0;
+			overflow:hidden;
+			text-align:center;
+			background-color: _palette(bg);
+		}
+		li {
+			display:block; 
+			width: 100%;
+			max-height: 90vh;
+		}
+ 
+		object { 
+			position:relative;
+			min-width:120%;
+			left:50%;
+			top:50%;
+			 -webkit-transform:translate(-50%, -10%);
+			 -moz-transform:translate(-50%, -10%);
+			 -ms-transform:translate(-50%, -10%);
+			transform:translate(-50%, -10%);
+			pointer-events:none
+		} 
+
+		@include breakpoint(medium) {
+
+			header{
+			margin-left: 7%;
+			margin-top:7%;
+			}
+
+			h1 {
+				font-size: 2em;
+			}
+
+			ul {
+				max-height: 40vh;
+			}
+
+			&.major {
+				height: auto;
+				min-height: 0;
+				max-height: none;
+			}
+		}
+		@include breakpoint(small) {
+
+			header{
+			margin-top: 10%;
+			height: auto;
+			margin-bottom: -2.75em;
+			max-height: none;
+			min-height: 0;
+			top: -2.75em;
+			}
+
+			h1 {
+				font-size: 2em;
+			}
+
+			ul {
+				max-height: 20vh;
+			}
+
+			&.major {
+				height: auto;
+				min-height: 0;
+				max-height: none;
+			}
+		}
+
+		@include breakpoint(xsmall) {
+			
+			header{
+			height: auto;
+			margin-bottom: -2.75em;
+			max-height: none;
+			min-height: 0;
+			top: -2.75em;
+			}
+
+			h1 {
+				font-size: 2em;
+			}
+
+			&.major {
+				height: auto;
+				min-height: 0;
+				max-height: none;
+
+			}
+			
+		}
+}

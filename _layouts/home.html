@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html> 
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner-->
+    <section id="banner" class="major">
+        <div class="inner">
+             <span class="image">
+                    <img src="{{ site.posts.first.image }}" alt="" />
+            </span>
+            <header class="major">
+               <!-- <h2>Read about the latest work: </h2><br />-->
+                <h1><a href="{{site.posts.first.url}}">{{ site.posts.first.title }}</a></h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: uppercase;">{{ site.posts.first.description }}</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main --> 
+    <div id="main">
+      <section id="two">
+            <div class="inner">
+                <header class="major">
+                    <h2>Recent Work</h2>
+                </header>
+            </div>
+        </section>
+        <!-- One -->
+        {% include tiles.html %}
+
+        <!-- Two -->
+        <section id="two">
+            <div class="inner" style="text-align: center;">
+    <ul class="actions">
+        <!--<li><a href="#" class="button special fit">Get Started</a></li>-->
+        <li><a href="#" class="button subscribe">Get updates from LaPipette!</a></li>
+        <li></li>
+    </ul>
+            </div>
+        </section>
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

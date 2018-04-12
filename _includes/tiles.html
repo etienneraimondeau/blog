@@ -1,0 +1,33 @@
+<section id="one" class="tiles">
+	{% for post in site.posts limit:site.tiles-count offset:1 %}
+	{% if site.tiles-source == 'posts' %}
+        <article> 
+                 <header class="major">
+                        <p>{{ post.categories }}</p>
+                        <h3>{{ post.title }}</h3>
+                        <p>{{ post.description }}</p>
+                </header>   
+                <a href="{{ post.url  | relative_url }}" class="link">
+                <span class="image">
+                        <img src="{{ post.image }}" alt="" />
+                </span>   
+                </a>
+        </article>   
+	{% endif %}
+	{% endfor %}
+	{% for page in site.pages limit:site.tiles-count %}
+	{% if site.tiles-source == 'pages' %}
+        <article>
+                <header class="major">
+                        <h3>{{ page.title }}</h3>
+                        <p>{{ page.description }}</p>
+                </header>
+                 <a href="{{ page.url | relative_url  }}" class="link">
+                 <span class="image">
+                        <img src="{{ page.image }}" alt="" />
+                </span>
+                </a>
+        </article>
+	{% endif %}
+	{% endfor %}  
+</section>

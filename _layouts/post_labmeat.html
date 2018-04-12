@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+{% include head.html %}
+
+<body>
+    {% include header.html %} 
+    
+    
+<!-- Parallax banner -->
+<section id="parallax-banner">
+			<header class="major">
+				<h1>{{ page.title }}</h1>
+				<p>{{ page.description }}</p>
+			</header>
+			<ul id="scene1" class="scene">
+				<li data-depth="0" class="layer"><object data="/assets/images/lab_meat/Labmeat-Banner-01.svg"></object></li>
+				<li data-depth="0.25" class="layer"><object data="/assets/images/lab_meat/Labmeat-Banner-02.svg"></object></li>
+				<li data-depth="0.5" class="layer"><object data="/assets/images/lab_meat/Labmeat-Banner-03.svg"></object></li>
+				<li data-depth="0.75" class="layer"><object data="/assets/images/lab_meat/Labmeat-Banner-04.svg"></object></li>
+			</ul>
+</section>
+
+<div id="main">
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<!--{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}-->
+		<p>{{ content }}</p>
+	</div>
+</section>
+
+</div>
+
+    {% include footer.html %}
+
+	<script src="{{ "assets/js/parallax.min.js" | absolute_url }}"></script>
+	<script>
+		var scene = document.getElementById('scene1');
+		var parallax = new Parallax(scene1);
+	</script>
+
+</body>
+
+</html>

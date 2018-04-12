@@ -1,0 +1,47 @@
+
+/* Icon */
+
+	.icon {
+		@include icon;
+		border-bottom: none;
+		position: relative;
+
+		> .label {
+			display: none;
+		}
+
+		&.alt {
+			&:before {
+				background-color: _palette(fg-bold);
+				border-radius: 100%;
+				color: _palette(bg);
+				display: inline-block;
+				height: 2em;
+				line-height: 2em;
+				text-align: center;
+				width: 2em;
+			}
+		}
+	}
+
+	a.icon {
+		&.alt {
+			&:before {
+				transition:all 100ms ease-in-out;
+			}
+
+			&:hover {
+				&:before {
+					background-color: _palette(accent1);
+					transform:scale(1.2)
+				}
+			}
+
+			&:active {
+				&:before {
+					background-color: desaturate(darken(_palette(accent1), 15), 5);
+					transform:scale(0.8)
+				}
+			}
+		}
+	}
