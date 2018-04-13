@@ -15,10 +15,10 @@
 				<p>{{ page.description }}</p>
 			</header>
 			<ul id="scene1" class="scene">
-				<li data-depth="0" class="layer"><object data="/assets/images/contact/contact-banner-01.svg"></object></li>
-				<li data-depth="0.1" class="layer"><object data="/assets/images/contact/contact-banner-02.svg"></object></li>
-				<li data-depth="0.2" class="layer"><object data="/assets/images/contact/contact-banner-03.svg"></object></li>
-				<li data-depth="0.9" class="layer"><object data="/assets/images/contact/contact-banner-04.svg"></object></li>
+				<li data-depth="0" class="layer"><object data="{{ "/assets/images/contact/contact-banner-01.svg" | relative_url }}"></object></li>
+				<li data-depth="0.1" class="layer"><object data="{{ "/assets/images/contact/contact-banner-02.svg" | relative_url }}"></object></li>
+				<li data-depth="0.2" class="layer"><object data="{{ "/assets/images/contact/contact-banner-03.svg" | relative_url }}"></object></li>
+				<li data-depth="0.9" class="layer"><object data="{{ "/assets/images/contact/contact-banner-04.svg" | relative_url }}"></object></li>
 			</ul>
 </section>
 
@@ -94,7 +94,7 @@
 
     {% include footer.html %}
 
-	<script src="{{ "assets/js/parallax.min.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/parallax.min.js" | relative_url }}"></script>
 	<script>
 		var scene = document.getElementById('scene1');
 		var parallax = new Parallax(scene1);
