@@ -8,12 +8,25 @@ description: how do they work and why are they cool?
 image: assets/images/checkpoints_inhibitors/Preview.png
 ---
 
-**Everything you need to know about what checkpoint inhibitors are and why they have caused a wave of hype for cancer immunotherapies.**
+#### Intro to come soon! Chill this is the beta version of the site!
 
-Since the approval of the first PD-1 checkpoint inhibitor, Keytruda, in 2014, there has been an explosion of the numbers of trials testing these drugs, both alone and in combination. The latest figure, coming from the Cancer Research Institute (CRI) in the US, sets the number in over 1,500 trials.
 
-Checkpoint inhibitors have yielded impressive results in a certain percentage of patients with cancer. Especially PD-1 and PD-L1 checkpoint inhibitors, which are now in the pipelines o all major big pharma. This has fueled the expectations on immunotherapies that activate and direct the immune system against cancer cells.
 
-But given most of these approaches are still in early stages of research, it is important to not let hype drive expectations too high and take the time to understand exactly how these drugs work, with their benefits as well as their side effects and other disadvantages like expensive prices. There is a lot going on in the field, so we decided to put all the essentials in this infographic to make it easier to process for everyone. Enjoy!
+
 
 ![My helpful checkpoint inhibitor infographic](assets/images/checkpoints_inhibitors/171220_Checkpoint_150p.png)
+
+### References
+
+
+##### Science Articles
+1. [Robert C. _et al._ (2015) Nivolumab in previously untreated melanoma without BRAF mutation. _N.Engl.J.Med._](http://www.ncbi.nlm.nih.gov/pubmed/?term=25399552){:target="_blank"}
+2. [Tang, J. _et al._ (2017) Comprehensive analysis of the clinical immuno-oncology landscape. _Ann.Onc._](https://www.ncbi.nlm.nih.gov/pubmed/?term=29228097){:target="_blank"}
+2. [Pardoll DM. (2012) CThe blockade of immune checkpoints in cancer immunotherapy. _Nat.Rev.Cancer_](https://www.ncbi.nlm.nih.gov/pubmed/?term=22437870){:target="_blank"}
+
+##### Web
+1. [Evalute Report 2017, "PD-1/PD-L1 Combinations Drive the Development of New Immunotherapies"](http://www.evaluategroup.com/public/reports/EPVantage-PD1-PDL1-Combination-Therapies-2015.aspx){:target="_blank"}
+1. [Labiotech.eu, "Are PD-1 and PD-L1 Checkpoint Inhibitors As Good As We Thought?"](https://labiotech.eu/pd-1-pd-l1-checkpoint-inhibitors/){:target="_blank"}{:target="_blank"}
+1. [Cancer.org, "Immune checkpoint inhibitors to treat cancer"](https://www.cancer.org/treatment/treatments-and-side-effects/treatment-types/immunotherapy/immune-checkpoint-inhibitors.html){:target="_blank"}
+
+

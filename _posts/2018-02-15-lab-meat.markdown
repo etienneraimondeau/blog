@@ -8,8 +8,24 @@ description: How is it made and is it scary?
 image: assets/images/lab_meat/Preview.svg
 ---
 
+#### Intro to come soon! Chill this is the beta version of the site!
+
 
 
 ![My helpful checkpoint inhibitor infographic](assets/images/lab_meat/180220_Labmeat.png)
 
-### References
+### References (order listed in the infographic)
+1. [Culturedbeef.org, "FAQ"](https://culturedbeef.org/sites/intranet.mumc.maastrichtuniversity.nl/files/culturedbeef_mumc_maastrichtuniversity_nl/frequently_asked_questions.pdf){:target="_blank"}
+1. [Youtube.com - World Economic Forum, "The Meat Revolution Mark Post"](https://www.youtube.com/watch?v=1lI9AwxKfTY&t=441s){:target="_blank"}
+1. [Bentzinger CF. _et al._ (2013) The emerging biology of muscle stem cells: implications for cell-based therapies. _Bioassays_](http://www.ncbi.nlm.nih.gov/pubmed/?term=22886714){:target="_blank"}
+1. [Food and Agriculture Organization, "World Livestock 2011, Livestock in food security"](http://www.fao.org/docrep/014/i2373e/i2373e.pdf){:target="_blank"}
+1. [Tuomisto HL. _et al._ (2011) Environmental impacts of cultured meat production. _Environ Sci Technol_](http://www.ncbi.nlm.nih.gov/pubmed/?term=21682287){:target="_blank"}
+1. [Capper JL. _et al._ (2012) The role of productivity in improving the environmental sustainability of ruminant production systems. _Annu. Rev. Anim. Biosci._](http://www.ncbi.nlm.nih.gov/pubmed/?term=25387028){:target="_blank"}
+1. [Friend of Earth - Europe, "Meat Atlas, Facts and figures about the animals we eat"](https://www.foeeurope.org/sites/default/files/publications/foee_hbf_meatatlas_jan2014.pdf){:target="_blank"}
+1. [New Harvest, "Mark Post's Cultured Beef"](hhttps://www.new-harvest.org/mark_post_cultured_beef){:target="_blank"}
+
+
+#### Further reading - Web
+1. [Elliot Swartz blog, "The Science Behind Lab-Grown Meat"](http://elliot-swartz.squarespace.com/science-related/invitromeat){:target="_blank"}
+1. [Labiotech.eu, "How can Cultured Meat solve World Hunger and Global Warming?"](https://labiotech.eu/cultured-meat-world-hunger-global-warming/){:target="_blank"}
+1. [MIT Technology Review, "The Problem with Fake Meat"](hhttps://www.technologyreview.com/s/536296/the-problem-with-fake-meat/){:target="_blank"}
