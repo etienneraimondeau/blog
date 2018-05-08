@@ -8,10 +8,13 @@ description: how do they work and why are they cool?
 image: assets/images/checkpoints_inhibitors/Preview.png
 ---
 
-#### Intro to come soon! Chill this is the beta version of the site!
+#### Checkpoint inhibitors and PD-1/PD-L1 therapies have headlined the news in the past years. But are they exactly?
 
+In 2013, Jimmy Carter miracle remission of cancer was achieved thanks to a new type of therapy : checkpoints inhibitors. Checkpoints are secondary signals which can modulated the immune reponse either by stimulating it or inhibiting it. Cancer cells hacked this pathway and express molecules which activate inhibiting checkpoints thus silencing the immune response making the cancer cell 'invisible' to the immune cells. Checkpoints inhibitors prevent this escaping mechanism. This is great because this therapy can be complentary to more traditional anti-cancer approaches.
 
+The potential of checkpoints was only discovered few years ago but this types of molecules can boast more than 1500 clinical trials going on currently which is an insane number. It is estimated that by 2025, the market for inhibitors could reach near €30Bn!
 
+**Let's explore what checkpoints inhibitors are and why they are a very popular new therapy against cancer**
 
 
 ![My helpful checkpoint inhibitor infographic](assets/images/checkpoints_inhibitors/171220_Checkpoint_150p.png)
