@@ -8,8 +8,14 @@ description: How is it made and is it scary?
 image: assets/images/lab_meat/Preview.svg
 ---
 
-#### Intro to come soon! Chill this is the beta version of the site!
+#### The first 'in vitro burger' was presented to the public on TV in 2013. How was it made and would you eat it?
 
+
+A cultured burger is made of billion of muscle strands which were grown in petri dishes in the lab using cell culture techniques. Scientists are now able to regenerate tissues from stem cells and same principles can also be used to produce meat! Right now the few cells needed are collected by a small biopsy which does not injure the animal but similarly to traditional cell culture techniques we could envision that scientists will generate stable cell lines in order to grow meat thus removing the need for any animal sample.
+The biggest issue to tackle is actually the scaling up of the process in order to lower the costs of the final meat. 
+
+This article focus mainly about beef but chicken, duck and even tuna will reach the market probably in the next 5 years. This new type of meat could allow us to consume meat without the need of animals! Is it safe and is this the future of meat? 
+**To learn more about cultured meat check the infographic below!**
 
 
 ![My helpful checkpoint inhibitor infographic](assets/images/lab_meat/180220_Labmeat.png)
