@@ -1,4 +1,4 @@
-#About
+# About
 
 I will try to publish illustrations at least once per month but sometimes I can get busy with the rest of my life. I designed this website using [Andrew Banchich Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme "Forty") as a base. LaPipette is powered by Jekyll and hosted on GitHub Pages!
 
