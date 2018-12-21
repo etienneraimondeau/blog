@@ -12,9 +12,9 @@ image: assets/images/lab_meat/Preview.svg
 
 
 A cultured burger is made of billion of muscle strands which were grown in petri dishes in the lab using cell culture techniques. Scientists are now able to regenerate tissues from stem cells and same principles can also be used to produce meat! Right now the few cells needed are collected by a small biopsy which does not injure the animal but similarly to traditional cell culture techniques we could envision that scientists will generate stable cell lines in order to grow meat thus removing the need for any animal sample.
-The biggest issue to tackle is actually the scaling up of the process in order to lower the costs of the final meat. 
+The biggest issue to tackle is actually the scaling up of the process in order to lower the costs of the final meat.
 
-This article focus mainly about beef but chicken, duck and even tuna will reach the market probably in the next 5 years. This new type of meat could allow us to consume meat without the need of animals! Is it safe and is this the future of meat? 
+This article focus mainly about beef but chicken, duck and even tuna will reach the market probably in the next 5 years. This new type of meat could allow us to consume meat without the need of animals! Is it safe and is this the future of meat?
 **To learn more about cultured meat check the infographic below!**
 
 
@@ -35,4 +35,3 @@ This article focus mainly about beef but chicken, duck and even tuna will reach 
 1. [Elliot Swartz blog, "The Science Behind Lab-Grown Meat"](http://elliot-swartz.squarespace.com/science-related/invitromeat){:target="_blank"}
 1. [MIT Technology Review, "The Problem with Fake Meat"](https://www.technologyreview.com/s/536296/the-problem-with-fake-meat/){:target="_blank"}
 1. [The Guardian, "What is the true cost of eating meat?"](https://www.theguardian.com/news/2018/may/07/true-cost-of-eating-meat-environment-health-animal-welfare?CMP=fb_gu){:target="_blank"}
-
