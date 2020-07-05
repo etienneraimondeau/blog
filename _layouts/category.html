@@ -10,8 +10,8 @@
 
 <body>
 
-    {% include header.html %} 
-    
+    {% include header.html %}
+
 <!-- Title -->
 <div id="main" class="alt">
       <section id="banner" class id="style2">
@@ -26,14 +26,14 @@
         </section>
 
 <!-- Tiles -->
-<section id="one" class="tiles">	
+<section id="one" class="tiles">
 	 {% for post in site.categories[page.category] %}
 	<article>
 		{% if post.image %}<span class="image"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 		<header class="major">
-			<h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+			<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
 			{% if post.description %}<p>{{ post.description }}</p>{% endif %}
-		</header>			
+		</header>
 	</article>
 	{% endfor %}
 	<br>
