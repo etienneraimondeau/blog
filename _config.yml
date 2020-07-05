@@ -1,17 +1,17 @@
 # site settings
 title: LaPipette
-subtitle: 
+subtitle:
 email: contact.lapipette@gmail.com
 description: LaPipette gathers cool infographics.
 baseurl:  # the subpath of your site, e.g. /blog
 url: "www.lapipette.com" # the base hostname & protocol for your site
 author:
-street_address: 
-city: 
-state: 
-zip_code: 
+street_address:
+city:
+state:
+zip_code:
 country:
-phone: 
+phone:
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -21,10 +21,10 @@ tiles-count: 10
 500px_url:
 facebook_url: https://www.facebook.com/LaPipettelabs
 github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/lapipette.labs/
+linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/LaPipettelabs
