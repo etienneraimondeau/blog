@@ -24,7 +24,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.05;
+			opacity: 0.5;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -43,7 +43,7 @@
 			position: absolute;
 			z-index: 1;
 			display:block;
-			overflow: hidden; 
+			overflow: hidden;
 
 			h1 {
 				font-size: 3.25em;
@@ -59,10 +59,10 @@
 		}
 
 		>.scene {
-				display:block; 
+				display:block;
 				width: 100%;
 				z-index: -1;
-				overflow: hidden; 
+				overflow: hidden;
 
 			ul {
 				list-style-type:none;
@@ -74,11 +74,11 @@
 			}
 
 			li {
-				display:block; 
+				display:block;
 				width: 100%;
 			}
- 
-			object { 
+
+			object {
 				position:relative;
 				min-width:130%;
 				left:50%;
@@ -88,7 +88,7 @@
 			 	-ms-transform:translate(-50%, -10%);
 				transform:translate(-50%, -10%);
 				pointer-events:none
-			} 
+			}
 		}
 
 		@include breakpoint(medium) {
@@ -102,7 +102,7 @@
 			}
 		}
 
-		@include breakpoint(small) { 
+		@include breakpoint(small) {
 			top: -2.75em;
 			height: 60vh;
 

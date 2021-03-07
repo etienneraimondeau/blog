@@ -6,6 +6,10 @@
 
 /* Image */
 
+img[src*="#thumbnail"] {
+  max-width: 10%
+}
+
 img {
     max-width: 100%;
 }

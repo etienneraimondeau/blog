@@ -4,17 +4,17 @@
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
+				{% if site.instagram_url %}
+				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				{% endif %}
+				{% if site.facebook_url %}
+				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+				{% endif %}
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank" ><span class="label">Twitter</span></a></li>
 				{% endif %}
 				{% if site.googleplus_url %}
 				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-				{% endif %}
-				{% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-				{% endif %}
-				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 				{% endif %}
 				{% if site.pinterest_url %}
 				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
@@ -39,7 +39,7 @@
 				{% endif %}
 			</ul>
 			<ul class="copyright">
-				<li> &copy; 2020 {{ site.title }} {{ site.subtitle }}</li>
+				<li> &copy; 2021 {{ site.title }} {{ site.subtitle }}</li>
 				<li><a href="{{ "/about/" | relative_url }}" target="_blank">About</a></li>
 				<li><a href="{{ "/contact/" | relative_url }}" target="_blank">Contact</a></li>
 			</ul>
