@@ -14,10 +14,10 @@
 			@include vendor('align-items', 'center');
 			@include vendor('display', 'flex');
 			@include vendor('transition', (
-				'transform 0.25s ease',
-				'opacity 0.25s ease',
-				'filter 1s ease',
-				'-webkit-filter 1s ease'
+				'transform 0.1s ease',
+				'opacity 0.1s ease',
+				'filter 0.1s ease',
+				'-webkit-filter 0.1s ease'
 			));
 			@include padding(4em, 4em);
 			background-position: center;
@@ -34,11 +34,11 @@
 			width: 48%;
 
   			&:hover {
-     		 	p,h3,header { 
+     		 	p,h3,header {
         			opacity: 1;
         			color: _palette(bg-alt) !important;
      		 	}
-  			} 
+  			}
 
 			.image {
 				display: none;
@@ -68,10 +68,10 @@
  			p, h3, header {
     			color: _palette(bg);
       			opacity: 0;
-      			@include vendor('transition', ('opacity 500ms ease-in'));
+      			@include vendor('transition', ('opacity 250ms ease-in'));
     		}
 
-			.link.primary { //whole tile link 
+			.link.primary { //whole tile link
 				border: 0;
 				height: 100%;
 				left: 0;
@@ -107,7 +107,7 @@
 
 			}
 
-			&:hover { 
+			&:hover {
 				&:before {
 				transition:all 200ms ease-in-out;
 				background-color: _palette(accent1);
