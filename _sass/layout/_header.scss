@@ -40,8 +40,8 @@
 			@include vendor('background-image', 'url("../images/logo_beta.svg")');
 				background-size: 6em;
 				background-repeat: no-repeat;
-				margin-left:1.5%;
-				margin-top:1.5%;
+				margin-left:1.25%;
+				margin-top:1.25%;
 
 			strong {
 				@include vendor('transition', (
@@ -233,7 +233,7 @@
 				background-size: 5em;
 				background-repeat: no-repeat;
 				margin-left:1em;
-				margin-top:1.25em;
+				margin-top:1em;
 			}
 
 			nav {
