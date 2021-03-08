@@ -9,7 +9,7 @@ image: assets/images/vaccine_cards/header-01.png
 ---
 
 
-_Last updated on 07/03/2021 - Translations can be found at [here](#free-download-and-translations)_
+_Last updated on 07/03/2021 - Translations can be found [here](#free-download-and-translations)_
 
 #### Context
 More and more vaccines against COVID-19 are getting approved around the world. We have a wealth of data about the vaccines but it can be complex and confusing for the general public. Vaccines rely on different technologies to boost the immune system against the virus responsible for COVID-19 (called SARS-CoV2). Each manufacturer completed their own clinical trials to estimate the efficacy of their vaccines. I wanted to create an easy way for myself and people to reference and compare the different vaccines.
