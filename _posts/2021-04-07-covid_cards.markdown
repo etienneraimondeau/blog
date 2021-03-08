@@ -33,7 +33,7 @@ Some of the data has not been published yet so the cards are not finalised and w
 ![Card progress](assets/images/vaccine_cards/body3-01.png)
 
 
-#### Free Download and Translations (RGB 150ppi)
+#### Free Download and Translations
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to copy and redistribute the material in any medium or format under the following terms:
 - You must give appropriate credit, provide a link to the license, and indicate if changes were made.
@@ -42,7 +42,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 If you would like to translate the cards, please contact me at using the <a href="{{ "/contact/" | relative_url }}" target="_blank">Contact page</a> or at contact.lapipette[at]gmail.com
 
-To save them right-click and choose "save-as" (Sorry will improve this at some point)
+To save them right-click and choose "save-as" (Sorry will improve this at some point). 
 
 **English**<br/>
 ![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-01.png#thumbnail)
