@@ -42,7 +42,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 If you would like to translate the cards, please contact me at using the <a href="{{ "/contact/" | relative_url }}" target="_blank">Contact page</a> or at contact.lapipette[at]gmail.com
 
-To save them right-click and choose "save-as" (Sorry will improve this at some point). 
+To save them right-click and choose "save-as" (Sorry will improve this at some point).
 
 **English**<br/>
 ![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-01.png#thumbnail)
@@ -75,14 +75,15 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 ![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-08.png#thumbnail)  
 
 **Portuguese - Português (Brasil)** by  [Julio Cesar Lorenzi](https://www.linkedin.com/in/juliolorenzi/)<br/>
-![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-01.png#thumbnail)
+99% there<br/><br/>
+<!---![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-03.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-04.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-05.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-06.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-08.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-08.png#thumbnail)-->
 
 **Italian - Italiano** by [Renzo Toffolo](https://www.instagram.com/renzotoffolo/)<br/>
 50% there<br/><br/>
