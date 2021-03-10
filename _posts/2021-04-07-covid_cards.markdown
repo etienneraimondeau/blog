@@ -103,11 +103,11 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 - BioNTech / Pfizer
     - [Polack et. al. 2021 (NEJM) Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577)
 - Oxford University/Astrazeneca
-    - [Voysey et. al. (2021) Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32661-1/fulltext)
+    - [Voysey et. al. 2021 (The Lancet) Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32661-1/fulltext)
     - [Madhi et. al. 2021 (MedRxiv) Safety and efficacy of the ChAdOx1 nCoV-19 (AZD1222) Covid-19 vaccine against the B.1.351 variant in South Africa](https://www.medrxiv.org/content/10.1101/2021.02.10.21251247v1.full.pdf)
     - [Voysey et. al. 2021 (The Lancet) Single Dose Administration, And The Influence Of The Timing Of The Booster Dose On Immunogenicity and Efficacy Of ChAdOx1 nCoV-19 (AZD1222) Vaccine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3777268)
 - Johnson & Johson
-    - [Johson & Johson press release](https://www.jnj.com/johnson-johnson-covid-19-vaccine-authorized-by-u-s-fda-for-emergency-usefirst-single-shot-vaccine-in-fight-against-global-pandemic) (The text doesnt mention efficacy anymore)
+    - [Johson & Johson press release](https://www.jnj.com/johnson-johnson-covid-19-vaccine-authorized-by-u-s-fda-for-emergency-usefirst-single-shot-vaccine-in-fight-against-global-pandemic) (The text doesn't mention efficacy anymore)
     - Phase 1-2a : [Sadoff et. al. 2021 (NEJM) Interim Results of a Phase 1–2a Trial of Ad26.COV2.S Covid-19 Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMoa2034201)
 - Gamaleya
     - [Logunov et. al. 2021 (The Lancet) Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim analysis of a randomised controlled phase 3 trial in Russia](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2821%2900234-8)
