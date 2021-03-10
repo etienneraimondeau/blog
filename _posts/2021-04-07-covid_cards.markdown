@@ -40,7 +40,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 - You may not use the material for commercial purposes.
 - If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-If you would like to translate the cards, please contact me at using the <a href="{{ "/contact/" | relative_url }}" target="_blank">Contact page</a> or at contact.lapipette[at]gmail.com
+If you would like to translate the cards, please contact me using the <a href="{{ "/contact/" | relative_url }}" target="_blank">Contact page</a> or at contact.lapipette[at]gmail.com
 
 To save them right-click and choose "save-as" (Sorry will improve this at some point).
 
@@ -75,7 +75,7 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 ![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-08.png#thumbnail)  
 
 **Portuguese - Português (Brasil)** by  [Julio Cesar Lorenzi](https://www.linkedin.com/in/juliolorenzi/)<br/>
-99% there<br/><br/>
+99% there<br/>
 <!---![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-03.png#thumbnail)
@@ -87,6 +87,7 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 
 **Italian - Italiano** by [Renzo Toffolo](https://www.instagram.com/renzotoffolo/)<br/>
 50% there<br/><br/>
+
 **French - Français**  by LaPipette!<br/>
 50% there<br/>
 
