@@ -38,21 +38,23 @@ Some of the data has not been published yet so the cards are not finalised and w
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to copy and redistribute the material in any medium or format under the following terms:
 - You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - You may not use the material for commercial purposes.
-- If you remix, transform, or build upon the material, you may not distribute the modified material.
+- If you remix, transform, or build upon the material, you may not distribute the modified material. (Basically, don't modify the cards please)
 
 If you would like to translate the cards, please contact me using the <a href="{{ "/contact/" | relative_url }}" target="_blank">Contact page</a> or at contact.lapipette[at]gmail.com
 
 To save them right-click and choose "save-as" (Sorry will improve this at some point).
 
 **English**<br/>
-![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/en/210302_vaccines_cards-08.png#thumbnail)
+<!--![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-10.png#thumbnail)-->
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-01.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-02.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-03.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-04.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-05.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-06.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-07.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-08.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-09.png#thumbnail)
 
 **Simplified Chinese - 简体中文** translated by [Chenlu Yu](https://www.linkedin.com/in/chenlu-yu/)<br/>
 ![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-01.png#thumbnail)
@@ -66,18 +68,18 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 
 **Spanish - Español** translated by [BioPosts](https://twitter.com/biopostsciart)<br/>
 99% there<br/>
-<!--![Card progress](assets/images/vaccine_cards/spanish/210214_vaccines_cards_ES-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210214_vaccines_cards_ES-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210214_vaccines_cards_ES-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210214_vaccines_cards_ES-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210214_vaccines_cards_ES-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210214_vaccines_cards_ES-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210214_vaccines_cards_ES-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210214_vaccines_cards_ES-08.png#thumbnail)-->
+<!--![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-01.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-02.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-03.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-04.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-05.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-06.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-07.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-08.png#thumbnail)-->
 
 **Portuguese - Português (Brasil)** translated by [Julio Cesar Lorenzi](https://www.linkedin.com/in/juliolorenzi/)<br/>
 99% there<br/>
-<!---![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-01.png#thumbnail)
+<!--![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-03.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-04.png#thumbnail)
@@ -86,8 +88,16 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-07.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-08.png#thumbnail)-->
 
-**Italian - Italiano** translated by [Renzo Toffolo](https://www.instagram.com/renzotoffolo/)<br/>
+**Italian - Italiano** translated by [Renzo Toffolo](www.farmaciaigea.it)<br/>
 99% there<br/>
+<!--![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-01.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-02.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-03.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-04.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-05.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-06.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-07.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-08.png#thumbnail)-->
 
 **French - Français** translated by LaPipette!<br/>
 in the pipeline<br/>
