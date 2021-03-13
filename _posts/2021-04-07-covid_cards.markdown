@@ -36,7 +36,7 @@ Some of the data has not been published yet so the cards are not finalised and w
 #### Free Download and Translations
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to copy and redistribute the material in any medium or format under the following terms:
-- You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- You must give appropriate credit, provide a link to the license, and indicate if changes were made. (basically tag me when you post them please!)
 - You may not use the material for commercial purposes.
 - If you remix, transform, or build upon the material, you may not distribute the modified material. (Basically, don't modify the cards please)
 
