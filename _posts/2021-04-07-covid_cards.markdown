@@ -67,26 +67,25 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 ![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-08.png#thumbnail)  
 
 **Spanish - Español** translated by [BioPosts](https://twitter.com/biopostsciart)<br/>
-99% there<br/>
-<!--![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-01.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-03.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-04.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-05.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-06.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-08.png#thumbnail)-->
+![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-08.png#thumbnail)
 
 **Portuguese - Português (Brasil)** translated by [Julio Cesar Lorenzi](https://www.linkedin.com/in/juliolorenzi/)<br/>
 99% there<br/>
-<!--![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-01.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-03.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-04.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-05.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-06.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-08.png#thumbnail)-->
+![Card progress](assets/images/vaccine_cards/br-pt/210228_vaccines_cards_Pt-08.png#thumbnail)
 
 **Italian - Italiano** translated by [Renzo Toffolo](www.farmaciaigea.it)<br/>
 99% there<br/>
