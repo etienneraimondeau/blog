@@ -77,6 +77,9 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 ![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-07.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-08.png#thumbnail)  
 
+**Traditional Chinese - 繁體中文**  <br/>
+in the pipeline
+
 **Spanish - Español** translated by [BioPosts](https://twitter.com/biopostsciart)<br/>
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-02.png#thumbnail)
@@ -123,6 +126,9 @@ in the pipeline<br/>
 **Arabic - عربى** <br/>
 in the pipeline<br/>
 
+**Farsi** <br/>
+in the pipeline<br/>
+
 **Indonesian - Bahasa Indonesia**<br/>
 in the pipeline<br/>
 
@@ -132,7 +138,20 @@ in the pipeline<br/>
 **Czech - čeština** <br/>
 in the pipeline
 
+**Mongolian** <br/>
+in the pipeline
 
+**Vietnamese** <br/>
+in the pipeline
+
+**Finnish** <br/>
+in the pipeline
+
+**Hindi** <br/>
+in the pipeline
+
+**Romanian** <br/>
+in the pipeline
 
 ### References
 - General reviews:
