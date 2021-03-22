@@ -58,7 +58,7 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 ![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-09.png#thumbnail)
 
 **French - Français** translated by LaPipette!<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/francaisLaPipette_vaccines_cards_FR.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/francais/LaPipette_vaccines_cards_FR.zip)<br/>
 ![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-03.png#thumbnail)
