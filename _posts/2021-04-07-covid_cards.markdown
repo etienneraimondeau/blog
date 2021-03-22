@@ -95,7 +95,7 @@ in the pipeline
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-08.png#thumbnail)
 
 **Portuguese - Português (Brasil)** translated by [Julio Cesar Lorenzi](https://www.linkedin.com/in/juliolorenzi/)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/br-pt/LaPipette_vaccines_cards_br-pt.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/br-pt/LaPipette_vaccines_cards_pt.zip)<br/>
 ![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-03.png#thumbnail)
