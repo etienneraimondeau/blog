@@ -95,7 +95,7 @@ in the pipeline
 ![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-08.png#thumbnail)
 
 **Portuguese - Português (Brasil)** translated by [Julio Cesar Lorenzi](https://www.linkedin.com/in/juliolorenzi/)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/br-pt/LaPipette_vaccines_cards_pt.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/br-pt/LaPipette_vaccines_cards_Pt.zip)<br/>
 ![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-03.png#thumbnail)
@@ -107,7 +107,7 @@ in the pipeline
 ![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-09.png#thumbnail)
 
 **Italian - Italiano** translated by [Renzo Toffolo](www.farmaciaigea.it)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/italiano/LaPipette_vaccines_cards_italiano.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/italiano/LaPipette_vaccines_cards_IT.zip)<br/>
 ![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-03.png#thumbnail)
