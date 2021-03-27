@@ -1,9 +1,9 @@
 ---
 title: Contact!
 layout: contact
-description: 'Reach out! We would love to hear what you have to say!'
+description: 'Reach out! I would love to hear what you have to say!'
 permalink: /contact/
 nav-menu: true
 ---
 
-This is the contact page
+Do you like LaPipette? Do you want to help in some ways? Do you want to collaborate? Then fill this form:
