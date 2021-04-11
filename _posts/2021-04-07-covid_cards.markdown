@@ -67,7 +67,7 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 [Download the cards as .zip](assets/images/vaccine_cards/cantonese/LaPipette_vaccines_cards_TC.zip)<br/>
 
 **Traditional Chinese (Cantonese) - 繁體中文（廣東話)** translated by [Hau Kwan Abby Lo](http://linkedin.com/in/hau-kwan-abby-lo-828819209) and [Irene Yeung](http://linkedin.com/in/ireneyyyeung)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/cantonese/LaPipette_vaccines_cards_TC_cantonese.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/cantonese/LaPipette_vaccines_cards_TC_Cantonese.zip)<br/>
 
 **Spanish - Español** translated by [BioPosts](https://twitter.com/biopostsciart)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/spanish/LaPipette_vaccines_cards_ES.zip)<br/>
