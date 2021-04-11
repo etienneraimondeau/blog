@@ -80,8 +80,11 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 ![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-07.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-08.png#thumbnail)-->
 
-**Traditional Chinese - 繁體中文**  <br/>
-In progress<br/>
+**Traditional Chinese - 繁體中文** translated by [Hau Kwan Abby Lo](http://linkedin.com/in/hau-kwan-abby-lo-828819209) and [Irene Yeung](http://linkedin.com/in/ireneyyyeung)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/cantonese/LaPipette_vaccines_cards_TC.zip)<br/>
+
+**Traditional Chinese (Cantonese) - 繁體中文（廣東話)** translated by [Hau Kwan Abby Lo](http://linkedin.com/in/hau-kwan-abby-lo-828819209) and [Irene Yeung](http://linkedin.com/in/ireneyyyeung)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/cantonese/LaPipette_vaccines_cards_TC_cantonese.zip)<br/>
 
 **Spanish - Español** translated by [BioPosts](https://twitter.com/biopostsciart)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/spanish/LaPipette_vaccines_cards_ES.zip)<br/>
@@ -179,15 +182,15 @@ In progress<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/finnish/LaPipette_vaccines_cards_fi.zip)<br/>
 
 **Korean - 한국어** <br/>
-Almost there<br/>
-
-**Japanese - 日本語** <br/>
-Almost there<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/korean/LaPipette_vaccines_cards_KR.zip)<br/>
 
 **Russian** <br/>
-Almost there<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/russian/LaPipette_vaccines_cards_RU.zip)<br/>
 
 **German - Deutsch** <br/>
+[Download the cards as .zip](assets/images/vaccine_cards/german/LaPipette_vaccines_cards_de.zip)<br/>
+
+**Japanese - 日本語** <br/>
 Almost there<br/>
 
 **Hungarian** <br/>
