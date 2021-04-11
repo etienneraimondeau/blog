@@ -59,26 +59,9 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 
 **French - Français** translated by LaPipette!<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/francais/LaPipette_vaccines_cards_FR.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-08.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/francais/210308_vaccines_cards_FR-09.png#thumbnail)-->
 
 **Simplified Chinese - 简体中文** translated by [Chenlu Yu](https://www.linkedin.com/in/chenlu-yu/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/chinese/LaPipette_vaccines_cards_CH.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/chinese/210228_vaccines_cards_CH-08.png#thumbnail)-->
 
 **Traditional Chinese - 繁體中文** translated by [Hau Kwan Abby Lo](http://linkedin.com/in/hau-kwan-abby-lo-828819209) and [Irene Yeung](http://linkedin.com/in/ireneyyyeung)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/cantonese/LaPipette_vaccines_cards_TC.zip)<br/>
@@ -88,86 +71,24 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 
 **Spanish - Español** translated by [BioPosts](https://twitter.com/biopostsciart)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/spanish/LaPipette_vaccines_cards_ES.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/spanish/210310_vaccines_cards_ES-08.png#thumbnail)-->
 
 **Portuguese - Português (Brasil)** translated by [Julio Cesar Lorenzi](https://www.linkedin.com/in/juliolorenzi/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/br-pt/LaPipette_vaccines_cards_Pt.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-08.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/br-pt/210310_vaccines_cards_Pt-09.png#thumbnail)-->
 
 **Italian - Italiano** translated by [Renzo Toffolo](www.farmaciaigea.it)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/italiano/LaPipette_vaccines_cards_IT.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-08.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/italiano/210308_vaccines_cards_IT-09.png#thumbnail)-->
 
 **Slovak - Slovensky** translated by [Patrícia Hrašnová](https://www.facebook.com/zijemvedu)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/slovak/LaPipette_vaccines_cards_slovak.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-08.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/slovak/210308_vaccines_cards_slovak-09.png#thumbnail)-->
 
 **Serbian - Srpski** translated by [Ivana Prokić](https://www.linkedin.com/in/ivanaprokic/) from [Ujedinjeni Protiv Kovida](www.ujedinjeni-protiv-kovida.net)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/serbian/LaPipette_vaccines_cards_serbian.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-08.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian-09.png#thumbnail)-->
 
 **Czech - čeština** translated by [Julius Luke](https://www.facebook.com/julius.lukes) <br/>
 [Download the cards as .zip](assets/images/vaccine_cards/czech/LaPipette_vaccines_cards_CZECH.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-08.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/czech/210308_vaccines_cards_CZECH-09.png#thumbnail)-->
 
 **Romanian - Română** translated by Razvan Nastasa <br/>
 [Download the cards as .zip](assets/images/vaccine_cards/romanian/LaPipette_vaccines_cards_romanian.zip)<br/>
-<!--![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-01.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-02.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-03.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-04.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-05.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-06.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-07.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-08.png#thumbnail)
-![Card progress](assets/images/vaccine_cards/romanian/210308_vaccines_cards_romanian-09.png#thumbnail)-->
 
 **Indonesian - Bahasa Indonesia** translated by [Adien Esti](https://www.instagram.com/adienesty/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/bahasa/LaPipette_vaccines_cards_bahasa.zip)<br/>
