@@ -63,7 +63,7 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 **Simplified Chinese - 简体中文** translated by [Chenlu Yu](https://www.linkedin.com/in/chenlu-yu/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/chinese/LaPipette_vaccines_cards_CH.zip)<br/>
 
-**Traditional Chinese - 繁體中文** translated by [Hau Kwan Abby Lo](http://linkedin.com/in/hau-kwan-abby-lo-828819209) and [Irene Yeung](http://linkedin.com/in/ireneyyyeung)<br/>
+**Traditional Chinese - 繁體中文** translated by [[Irene Yeung](http://linkedin.com/in/ireneyyyeung) and Hau Kwan Abby Lo](http://linkedin.com/in/hau-kwan-abby-lo-828819209)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/cantonese/LaPipette_vaccines_cards_TC.zip)<br/>
 
 **Traditional Chinese (Cantonese) - 繁體中文（廣東話)** translated by [Hau Kwan Abby Lo](http://linkedin.com/in/hau-kwan-abby-lo-828819209) and [Irene Yeung](http://linkedin.com/in/ireneyyyeung)<br/>
