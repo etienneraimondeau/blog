@@ -100,7 +100,7 @@ To save them right-click and choose "save-as" (Sorry will improve this at some p
 [Download the cards as .zip](assets/images/vaccine_cards/finnish/LaPipette_vaccines_cards_fi.zip)<br/>
 
 **Georgian - ქართული** translated by [Giorgi Chkheidze](https://www.linkedin.com/in/giorgi-chkheidze/)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/finnish/LaPipette_vaccines_cards_georgian.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/georgian/LaPipette_vaccines_cards_georgian.zip)<br/>
 
 **Korean - 한국어** <br/>
 [Download the cards as .zip](assets/images/vaccine_cards/korean/LaPipette_vaccines_cards_KR.zip)<br/>
