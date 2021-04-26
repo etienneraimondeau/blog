@@ -40,7 +40,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 - You may not use the material for commercial purposes.
 - If you remix, transform, or build upon the material, you may not distribute the modified material. (Basically, don't modify the cards please)
 
-Two versions are available in english listing efficacies vs disease severity or vs variants. Only the cards with the efficacy against variants are available in multiple languages. Please not that these were translated over few months ago now so the data could be outdated (sorry! I'll try to fix this)
+Two versions are available in english listing efficacies vs disease severity or vs variants. Only the cards with the efficacy against variants are available in multiple languages. Please note that these were translated over few months ago now so the data could be outdated (sorry! I'll try to fix this)
 
 
 **English 'V2'**<br/>
