@@ -9,7 +9,7 @@ image: assets/images/vaccine_cards/header-01.png
 ---
 
 
-_Last updated on 28/03/2021 - Translations can be found [here](#free-download-and-translations)_
+_Last updated on 06/05/2021 - Translations can be found [here](#free-download-and-translations)_
 
 #### Context
 More and more vaccines against COVID-19 are getting approved around the world. We have a wealth of data about these vaccines but it can be complex and confusing for the general public. Vaccines rely on different technologies to boost the immune system against the virus responsible for COVID-19 (called SARS-CoV2). Each manufacturer completed their own clinical trials to estimate the efficacy of their vaccines. I wanted to create an easy way for myself and people to reference and compare the different vaccines. The main caveat is that you cannot compare efficacy between vaccines since each clinical trial has its own standard ('end-point') to asses COVID-19 cases.
@@ -46,7 +46,7 @@ Two versions are available in english listing efficacies vs disease severity or 
 **English 'V2'**<br/>
 <!--![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-10.png#thumbnail)-->
 [Download the cards as .zip](assets/images/vaccine_cards/en/LaPipette_vaccines_cards_V2.zip)<br/>
-![Card progress](assets/images/vaccine_cards/en/210406_vaccines_cards_V2-11.png#thumbnail)
+[Download the cards as .pdf](assets/images/vaccine_cards/en/210406_vaccines_cards_V2.pdf)<br/>
 ![Card progress](assets/images/vaccine_cards/en/210406_vaccines_cards_V2-01.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/en/210406_vaccines_cards_V2-02.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/en/210406_vaccines_cards_V2-03.png#thumbnail)
@@ -57,6 +57,7 @@ Two versions are available in english listing efficacies vs disease severity or 
 ![Card progress](assets/images/vaccine_cards/en/210406_vaccines_cards_V2-08.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/en/210406_vaccines_cards_V2-09.png#thumbnail)
 ![Card progress](assets/images/vaccine_cards/en/210406_vaccines_cards_V2-10.png#thumbnail)
+![Card progress](assets/images/vaccine_cards/en/210406_vaccines_cards_V2-11.png#thumbnail)
 
 **English 'V1'**<br/>
 <!--![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-10.png#thumbnail)-->
