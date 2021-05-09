@@ -98,6 +98,8 @@ Two versions are available in english listing efficacies vs disease severity or 
 
 **Serbian - Srpski 'V1'** translated by [Ivana Prokić](https://www.linkedin.com/in/ivanaprokic/) from [Ujedinjeni Protiv Kovida](www.ujedinjeni-protiv-kovida.net)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/serbian/LaPipette_vaccines_cards_serbian.zip)<br/>
+**Serbian - Српски 'V1'** translated by [Miloš Vasić](https://www.linkedin.com/in/vasicmilos/) from [Ujedinjeni Protiv Kovida](www.ujedinjeni-protiv-kovida.net)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian2.zip)<br/>
 
 **Czech - čeština 'V1'** translated by [Julius Luke](https://www.facebook.com/julius.lukes) <br/>
 [Download the cards as .zip](assets/images/vaccine_cards/czech/LaPipette_vaccines_cards_CZECH.zip)<br/>
@@ -147,7 +149,7 @@ Two versions are available in english listing efficacies vs disease severity or 
 **Ukrainian - Український 'V1'** translated by [Anastasiia Filimonova](https://www.linkedin.com/in/anastasiia-filimonova/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/ukrainian/LaPipette_vaccines_cards_UKR.zip)<br/>
 
-**Macedonian - Македонски 'V1'** translated by [Dimitar Stevchev](http://zsm.mk/)
+**Macedonian - Македонски 'V1'** translated by [Dimitar Stevchev](http://zsm.mk/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/macedonian/LaPipette_vaccines_cards_macedonian.zip)<br/>
 
 **Arabic - ع 'V1'ربى** <br/>
