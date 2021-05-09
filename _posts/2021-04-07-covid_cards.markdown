@@ -132,25 +132,25 @@ Two versions are available in english listing efficacies vs disease severity or 
 [Download the cards as .zip](assets/images/vaccine_cards/japanese/LaPipette_vaccines_cards_JP.zip)<br/>
 
 **Hungarian - Magyar 'V1'** translated by [Attila Imre](https://hupsa.org/)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/hunarian/LaPipette_vaccines_cards_hu.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/hungarian/LaPipette_vaccines_cards_hu.zip)<br/>
 
 **Dutch - Nederlands 'V1'** translated by [Iris Iemenschot](https://www.linkedin.com/in/iris-iemenschot-21b198166/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/dutch/LaPipette_vaccines_cards_dutch.zip)<br/>
 
 **Bosnian - Bosanski 'V1'** translated by [Zerina Kurtovic](https://www.linkedin.com/in/zerina-kurtovic-70a0318b/)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/dutch/LaPipette_vaccines_cards_ZK.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/bosnian/LaPipette_vaccines_cards_ZK.zip)<br/>
 
 **Albanian - Shqiptare 'V1'** translated by [Orion JUCJA](http://www.ufsh.org.al/)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/albanian/LaPipette_vaccines_cards_alb.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/albanian/210308_vaccines_cards_alb.zip)<br/>
 
 **Polish - Polskie 'V1'** translated by Marzena Ciechomska from [PSNC](https://www.psnc.pl/) as part of the [REGIONAL COVID-HUB](https://wlkp.covidhub.pl/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/polish/LaPipette_vaccines_cards_polish.zip)<br/>
 
 **Ukrainian - Український 'V1'** translated by [Anastasiia Filimonova](https://www.linkedin.com/in/anastasiia-filimonova/)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/ukrainian/LaPipette_vaccines_cards_UKR.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/ukrainian/210308_vaccines_cards_UKR.zip)<br/>
 
 **Macedonian - Македонски 'V1'** translated by [Dimitar Stevchev](http://zsm.mk/)<br/>
-[Download the cards as .zip](assets/images/vaccine_cards/macedonian/LaPipette_vaccines_cards_macedonian.zip)<br/>
+[Download the cards as .zip](assets/images/vaccine_cards/macedonian/210308_vaccines_cards_macedonian.zip)<br/>
 
 **Arabic - ع 'V1'ربى** <br/>
 In progress<br/>
