@@ -141,7 +141,7 @@ Two versions are available in english listing efficacies vs disease severity or 
 **Bosnian - Bosanski 'V1'** translated by [Zerina Kurtovic](https://www.linkedin.com/in/zerina-kurtovic-70a0318b/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/bosnian/LaPipette_vaccines_cards_ZK.zip)<br/>
 
-**Albanian - Shqiptare 'V1'** translated by [Orion JUCJA](http://www.ufsh.org.al/)<br/>
+**Albanian - Shqiptare 'V1'** translated by [Orion JUCJA](https://www.linkedin.com/mwlite/in/orion-jucja-a9a209136)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/albanian/210308_vaccines_cards_alb.zip)<br/>
 
 **Polish - Polskie 'V1'** translated by Marzena Ciechomska from [PSNC](https://www.psnc.pl/) as part of the [REGIONAL COVID-HUB](https://wlkp.covidhub.pl/)<br/>
