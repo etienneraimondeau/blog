@@ -97,9 +97,9 @@ Two versions are available in english listing efficacies vs disease severity or 
 **Slovak - Slovensky 'V1'** translated by [Patrícia Hrašnová](https://www.facebook.com/zijemvedu)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/slovak/LaPipette_vaccines_cards_slovak.zip)<br/>
 
-**Serbian - Srpski 'V1'** translated by [Ivana Prokić](https://www.linkedin.com/in/ivanaprokic/) from [Ujedinjeni Protiv Kovida](www.ujedinjeni-protiv-kovida.net)<br/>
+**Serbian - Srpski 'V1'** translated by [Ivana Prokić](https://www.linkedin.com/in/ivanaprokic/) from [Ujedinjeni Protiv Kovida](https://www.ujedinjeni-protiv-kovida.net)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/serbian/LaPipette_vaccines_cards_serbian.zip)<br/>
-**Serbian - Српски 'V1'** translated by [Miloš Vasić](https://www.linkedin.com/in/vasicmilos/) from [Ujedinjeni Protiv Kovida](www.ujedinjeni-protiv-kovida.net)<br/>
+**Serbian - Српски 'V1'** translated by [Miloš Vasić](https://www.linkedin.com/in/vasicmilos/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/serbian/210308_vaccines_cards_serbian2.zip)<br/>
 
 **Czech - čeština 'V1'** translated by [Julius Luke](https://www.facebook.com/julius.lukes) <br/>
