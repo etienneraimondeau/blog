@@ -21,7 +21,7 @@ _Last updated on 09/05/2021 - Translations can be found [here](#free-download-an
     <h4>Tools</h4>
     <p>Illustrator</p>
 		<h4>Category</h4>
-    	<p><a href="{{ site.baseurl }}/category/{{ page.category }}" class="link">{{ page.category }}.html</a></p>
+    	<p><a href="{{ site.baseurl }}/category/{{ page.category }}.html" class="link">{{ page.category }</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Context</h4>
