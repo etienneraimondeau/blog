@@ -27,15 +27,14 @@
 
 <!-- Tiles -->
 <section id="one" class="tiles">
-	 {% for post in site.categories[page.category] %}
-	<article>
-		  {% if post.image %}<span class="image"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-		<header class="major">
-			<h3>{{ post.title }}</a></h3>
-			{% if post.description %}<p>{{ post.description }}</p>{% endif %}
-		</header>
-    <<a href="{{ post.url  | relative_url }}" class="link">
-	</article>
+	 {% for post in site.categories[page.category]%}
+   <article>
+ 		{% if post.image %}<span class="image"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+ 		<header class="major">
+ 			<h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+ 			{% if post.description %}<p>{{ post.description }}</p>{% endif %}
+ 		</header>
+ 	</article>
 	{% endfor %}
 	<br>
 </section>
