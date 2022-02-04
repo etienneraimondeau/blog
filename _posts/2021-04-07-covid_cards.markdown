@@ -3,7 +3,7 @@ layout: post
 title:  "COVID-19 vaccine cards"
 permalink: /vaccine_cards
 date:   2021-03-04
-category: ['Illustrations']
+category: ['illustrations']
 tag: ['Portfolio']
 tools: ['Illustrator']
 description: Flashcard cards about each approved vaccine

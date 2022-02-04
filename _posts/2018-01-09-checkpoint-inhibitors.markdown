@@ -3,7 +3,7 @@ layout: post
 title:  "What are checkpoints inhibitors?"
 permalink: /checkpoints-inhibitors
 date:   2018-01-10
-category: ['Infographics']
+category: ['infographics']
 tag: ['Portfolio']
 tools: ['Illustrator']
 description: how do they work and why are they cool?
