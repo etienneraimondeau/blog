@@ -3,21 +3,38 @@ layout: post
 title:  "COVID-19 vaccine cards"
 permalink: /vaccine_cards
 date:   2021-03-04
-categories: Infographics
+category: ['Illustrations']
+tag: ['Portfolio']
+tools: ['Illustrator']
 description: Flashcard cards about each approved vaccine
 image: assets/images/vaccine_cards/header-01.png
 ---
 
+{% include text-expand.html %}
 
 _Last updated on 09/05/2021 - Translations can be found [here](#free-download-and-translations)_
 
-#### Context
-More and more vaccines against COVID-19 are getting approved around the world. We have a wealth of data about these vaccines but it can be complex and confusing for the general public. Vaccines rely on different technologies to boost the immune system against the virus responsible for COVID-19 (called SARS-CoV2). Each manufacturer completed their own clinical trials to estimate the efficacy of their vaccines. I wanted to create an easy way for myself and people to reference and compare the different vaccines. The main caveat is that you cannot compare efficacy between vaccines since each clinical trial has its own standard ('end-point') to asses COVID-19 cases.
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h4>Client</h4>
+		<p>Personal</p>
+    <h4>Tools</h4>
+    <p>Illustrator</p>
+		<h4>Category</h4>
+    	<p><a href="{{ site.baseurl }}/category/{{ page.category }}" class="link">{{ page.category }}</a></p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Context</h4>
+		<p>More and more vaccines against COVID-19 are getting approved around the world. We have a wealth of data about these vaccines but it can be complex and confusing for the general public. Vaccines rely on different technologies to boost the immune system against the virus responsible for COVID-19 (called SARS-CoV2). Each manufacturer completed their own clinical trials to estimate the efficacy of their vaccines. I wanted to create an easy way for myself and people to reference and compare the different vaccines. The main caveat is that you cannot compare efficacy between vaccines since each clinical trial has its own standard ('end-point') to asses COVID-19 cases.</p>
+	</div>
+</div>  
+
+
+
 
 
 #### Design
 I aimed to create one very simple flashcard per vaccine taking inspiration from trading cards. Each vaccine card should have a quick reminder of the technology used and metrics about the vaccine. I wanted to colour-code each card and data for easy comparison across the stack.
-
 
 #### Early version
 I already had made summaries about the science behind each technology so I didn't explore many sketches. It was more about organising the information than exploring colours and visuals...
@@ -153,20 +170,6 @@ Two versions are available in english listing efficacies vs disease severity or 
 **Macedonian - Македонски 'V1'** translated by [Dimitar Stevchev](http://zsm.mk/)<br/>
 [Download the cards as .zip](assets/images/vaccine_cards/macedonian/210308_vaccines_cards_macedonian.zip)<br/>
 
-**Arabic - ع 'V1'ربى** <br/>
-In progress<br/>
-
-**Farsi 'V1'** <br/>
-In progress<br/>
-
-**Mongolian 'V1'** <br/>
-in the pipeline
-
-**Turkish - Türkçe 'V1'** <br/>
-in the pipeline<br/>
-
-**Hindi 'V1'** <br/>
-in the pipeline
 
 
 ### References
@@ -197,4 +200,4 @@ in the pipeline
 
 ![card header](assets/images/vaccine_cards/header-01.png)
 
- Thanks for watching! See more updates on **[instagram](https://www.instagram.com/lapipette.labs/)!**
+ Thanks for reading! [Let us know what you think!](contact/)

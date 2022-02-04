@@ -6,18 +6,28 @@ permalink: /about/
 description: LaPipette what?
 ---
 
-**What is LaPipette?**
+## Hi! My name is Etienne, I am PhD biochemist passionate about science and illustrations.
 
+<br>
 
-Hi! My name is Etienne, I am a PhD biochemist based in Oxford and I work full-time in a biotech. I created LaPipette in 2018 with the help of my cat. LaPipette is a passion project that I run during nights and weekends. On LaPipette you will find illustrations and infographics about science. Most of them are about biotechnology which is my background or environment which is a very important topic to me. I take some freelance projects from time to time so don't
+**Who is LaPipette?**
 
+In 2016, I finished my PhD in biochemistry and structural biology at EMBL (European Molecular Biology Laboratory) in Grenoble. Writing my PhD thesis and my research paper made me realise how valuable high quality science graphics are to communicate your research.
 
-**How does LaPipette work?**
+I believe science is fun and exciting as well as beautiful.
 
-This website gathers my best illustrations. If you want to see more, I try to post at least once per month on [Instagram](https://www.instagram.com/lapipette.labs/) but sometimes I can get busy with the rest of my life. I designed this website using [Andrew Banchich Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme "Forty") as a base. LaPipette is powered by Jekyll and hosted on GitHub Pages!
-
+![Founders](/assets/images/visualise/etienne_cat.png){: .center-image }
 
 **Why LaPipette?**
 
-I travelled for a few months after my PhD in biochemistry and realised that access to education and in particular science can be difficult in some parts of the world. Unlike some people I met, I was lucky enough to be able to follow my passion and study biology. 
-With recent major advances in cancer therapy, gene editing and 'green tech' biotechnology promises to revolutionize our lives in the 21st century. LaPipette aims to explain these future hopes and challenges in an accessible and fun way. LaPipette is inspired by TED, Kurzegesagt and numerous design which makes education more accessible.
+I travelled for half a year following my PhD and realised that access to education and in particular science can be difficult in some parts of the world. Unlike some people I met, I was lucky enough to be able to follow my passion and study biology. I think great visuals and animations are great tools to capture imagination and inspire further learning.
+
+In my evenings and weekends I started personal projects by researching and illustrating recent major advances in biotechnology like novel cancer therapies or in vitro culture meat.
+
+**How does LaPipette work?**
+
+ If you’re interested in my infographics and other projects, please feel free to [contact me](/contact) so we can have a chat and see if we can work together!
+
+**How does this website work?**
+
+This place is powered by Jekyll and hosted on GitHub Pages. I designed this website using [Andrew Banchich Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme "Forty") as a base.
