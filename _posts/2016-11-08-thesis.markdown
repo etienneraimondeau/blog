@@ -3,7 +3,7 @@ layout: post
 title:  "Thesis Illustrations"
 permalink: /thesis
 date:   2016-01-10
-category: ['Illustrations']
+category: ['illustrations']
 tag: ['Portfolio']
 tools: ['Illustrator', 'Photoshop', 'LaTeX']
 description: About ribosomes and mRNA

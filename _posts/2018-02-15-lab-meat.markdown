@@ -3,7 +3,7 @@ layout: post_labmeat
 title:  "What is cultured meat?"
 permalink: /lab_meat
 date:   2018-01-10
-category: ['Infographics']
+category: ['infographics']
 tag: ['Portfolio']
 tools: ['Illustrator']
 description: How is it made and is it scary?
