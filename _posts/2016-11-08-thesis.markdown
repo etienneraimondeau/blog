@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Thesis Illustrations"
+permalink: /thesis
+date:   2016-01-10
+category: ['Illustrations']
+tag: ['Portfolio']
+tools: ['Illustrator', 'Photoshop', 'LaTeX']
+description: About ribosomes and mRNA
+image: assets/images/thesis/02.png
+---
+
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h4>Client</h4>
+		  <p>Personal</p>
+    <h4>Tools</h4>
+      <p>{{ page.tools | join:', ' }}</p>
+    <h4>Category</h4>
+    	<p><a href="{{ site.baseurl }}/category/{{ page.category }}" class="link">{{ page.category }}</a></p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Context</h4>
+		<p>This project gathers some of the illustrations I created for my PhD thesis manuscript. The whole document was written in LaTeX using Lyx. Illustrations were done with Illustrator.</p>
+	</div>
+</div>  
+<br>
+
+![01](assets/images/thesis/01.png)
+![01](assets/images/thesis/02.png)
+![01](assets/images/thesis/03.png)
+
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="6u"><span class="image fit"><b>The life of mRNA.</b><br><i>Adapted from Moore & Proudfoot, 2009 and Hir et al., 2015</i><img src="assets/images/thesis/05.png" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><b>mRNA quality control pathways in the cell.</b><br><i>Adapted from Doma & Parker, 2007; Schweingruber et al., 2013</i><img src="assets/images/thesis/06.png" alt="" /></span></div>
+		<!-- Break -->
+    <div class="6u"><span class="image fit"><b>Overview of translation termination and recycling.</b><br><i>Adapted from Alkalaeva et al., 2006; Pisarev et al., 2007, 2010; Schweingruber et al., 2013</i><img src="assets/images/thesis/04.png" alt="" /></span></div>
+		<div class="6u$"><span class="image fit"><b>Model for mRNA decay by NMD in mammals.</b><br><i>Adapted from Isken et al., 2008 and Schweingruber et al., 2013</i><img src="assets/images/thesis/07.png" alt="" /></span></div>
+	</div>
+</div>
+
+Thanks for reading! [Let us know what you think!](contact/)

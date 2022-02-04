@@ -1,7 +1,7 @@
 ---
 layout: archives
 title: Archives
-nav-menu: true
+nav-menu: false
 image: assets/images/Checkpoints_inhibitors/Preview.png
 ---
 

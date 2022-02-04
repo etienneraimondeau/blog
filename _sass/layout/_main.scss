@@ -18,7 +18,7 @@
 
 			@include inner;
 		}
-		
+
 		::selection {
     		background-color: #d8217d;
     		color: #fff;
@@ -27,5 +27,11 @@
 		&.alt {
 			background-color: transparent;
 			border-bottom: solid 1px _palette(border);
+		}
+		.center-image
+		{
+			max-height: 400px;
+			margin: 0 auto;
+    	display: block;
 		}
 	}

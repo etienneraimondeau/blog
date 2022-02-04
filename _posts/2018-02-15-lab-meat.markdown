@@ -3,18 +3,32 @@ layout: post_labmeat
 title:  "What is cultured meat?"
 permalink: /lab_meat
 date:   2018-01-10
-categories: Infographics
+category: ['Infographics']
+tag: ['Portfolio']
+tools: ['Illustrator']
 description: How is it made and is it scary?
 image: assets/images/lab_meat/Preview.svg
 ---
 
-#### The first 'in vitro burger' was presented to the public on TV in 2013. How was it made and would you eat it?
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h4>Client</h4>
+		  <p>Personal in collaboration <a href="https://www.labiotech.eu/">LaBiotech.eu</a></p>
+    <h4>Tools</h4>
+      <p>{{ page.tools }}</p>
+    <h4>Category</h4>
+    	<p><a href="{{ site.baseurl }}/category/{{ page.category }}" class="link">{{ page.category }}</a></p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h4>Context</h4>
+		<p>A cultured burger is made of billion of muscle strands which were grown in Petri dishes in the lab using cell culture techniques. Scientists are now able to regenerate tissues from stem cells and the same principles can also be used to produce meat! Right now the few cells needed are collected by a small biopsy which does not injure the animal but similarly to traditional cell culture techniques we could envision that scientists will generate stable cell lines in order to grow meat thus removing the need for any animal sample. The biggest issue to tackle is actually the scaling up of the process in order to lower the costs of the final meat.</p>
+	</div>
+</div>  
+<br>
 
+#### The first ‘in vitro burger’ was presented to the public on TV in 2013. How was it made and would you eat it?
 
-A cultured burger is made of billion of muscle strands which were grown in petri dishes in the lab using cell culture techniques. Scientists are now able to regenerate tissues from stem cells and same principles can also be used to produce meat! Right now the few cells needed are collected by a small biopsy which does not injure the animal but similarly to traditional cell culture techniques we could envision that scientists will generate stable cell lines in order to grow meat thus removing the need for any animal sample.
-The biggest issue to tackle is actually the scaling up of the process in order to lower the costs of the final meat.
-
-This article focus mainly about beef but chicken, duck and even tuna will reach the market probably in the next 5 years. This new type of meat could allow us to consume meat without the need of animals! Is it safe and is this the future of meat?
+This article focuses mainly on beef but chicken, duck and even tuna will reach the market probably in the next 5 years. This new type of meat could allow us to consume meat without the need for animals! Is it safe and is this the future of meat?
 **To learn more about cultured meat check the infographic below!**
 
 
@@ -35,3 +49,5 @@ This article focus mainly about beef but chicken, duck and even tuna will reach 
 1. [Elliot Swartz blog, "The Science Behind Lab-Grown Meat"](http://elliot-swartz.squarespace.com/science-related/invitromeat){:target="_blank"}
 1. [MIT Technology Review, "The Problem with Fake Meat"](https://www.technologyreview.com/s/536296/the-problem-with-fake-meat/){:target="_blank"}
 1. [The Guardian, "What is the true cost of eating meat?"](https://www.theguardian.com/news/2018/may/07/true-cost-of-eating-meat-environment-health-animal-welfare?CMP=fb_gu){:target="_blank"}
+
+Thanks for reading! [Let us know what you think!](contact/)

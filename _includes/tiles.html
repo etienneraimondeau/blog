@@ -1,18 +1,18 @@
 <section id="one" class="tiles">
 	{% for post in site.posts limit:site.tiles-count offset:1 %}
 	{% if site.tiles-source == 'posts' %}
-        <article> 
+        <article>
                  <header class="major">
-                        <p>{{ post.categories }}</p>
+                        <p>{{ post.category | join:' | ' }}</p>
                         <h3>{{ post.title }}</h3>
                         <p>{{ post.description }}</p>
-                </header>   
+                </header>
                 <a href="{{ post.url  | relative_url }}" class="link">
                 <span class="image">
                         <img src="{{ post.image }}" alt="" />
-                </span>   
+                </span>
                 </a>
-        </article>   
+        </article>
 	{% endif %}
 	{% endfor %}
 	{% for page in site.pages limit:site.tiles-count %}
@@ -29,5 +29,5 @@
                 </a>
         </article>
 	{% endif %}
-	{% endfor %}  
+	{% endfor %}
 </section>

@@ -1,14 +1,16 @@
+{% include text-expand.html %}
 <!-- Wrapper -->
 <div id="wrapper">
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | relative_url }}/" class="logo"><!--<strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span><--></a>
+	<a href="{{ "" | relative_url }}/" class="logo"></a>
+	<!--strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span-->
 	<nav>
 		<!--{% if site.instagram_url %}
 		<a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a>
 		{% endif %}-->
-		<a href="{{ "/about/" | relative_url }}">About</a>
+		<a href="{{ "/tags/portoflio/" | relative_url }}">Portfolio</a>
 		<a href="{{ "/contact/" | relative_url }}">Contact</a>
 		<a href="#menu"></a>
 	</nav>

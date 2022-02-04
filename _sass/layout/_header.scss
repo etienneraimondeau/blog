@@ -30,18 +30,12 @@
 		opacity: 0.95;
 
 		.logo {
-			border: 0;
-			display: inline-block;
-			font-size: 0.8em;
-			height: inherit;
-			width: 20%;
-			line-height: inherit;
-			padding: 0 1.5em;
-			@include vendor('background-image', 'url("../images/logo_beta.svg")');
-				background-size: 6em;
+			width: 25%;
+			@include vendor('background-image', 'url("../images/logo_22_simple.svg")');
+				background-size: 7em;
 				background-repeat: no-repeat;
-				margin-left:1.25%;
-				margin-top:1.25%;
+				//margin-left:0.5%;
+				//margin-top:0.5%;
 
 			strong {
 				@include vendor('transition', (
@@ -134,7 +128,7 @@
 		}
 
 		&.reveal {
-			@include vendor('animation', 'reveal-header 0.35s ease');
+			@include vendor('animation', 'reveal-header 0.3s ease');
 		}
 
 		&.alt {
@@ -192,11 +186,9 @@
 			line-height: 2.75em;
 
 			.logo {
-				padding: 0 1.5em;
-				background-size: 5.5em;
 				background-repeat: no-repeat;
-				margin-left:1.25em;
-				margin-top:1.25em;
+				//margin-left: 0.1em;
+				margin-top: 0.15em;
 			}
 
 			nav {
@@ -228,12 +220,12 @@
 
 		@include breakpoint(xsmall) {
 			.logo {
-				width: 20%;
-				padding: 0 1.5em;
-				background-size: 5em;
+				width: 25%;
+				//padding: 0 1.5em;
+				background-size: 6em;
 				background-repeat: no-repeat;
-				margin-left:1em;
-				margin-top:1em;
+				//margin-left:1em;
+				//margin-top:1em;
 			}
 
 			nav {
