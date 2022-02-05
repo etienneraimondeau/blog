@@ -31,7 +31,7 @@
    <article>
  		{% if post.image %}<span class="image"><img src="{{ post.image | relative_url }}" alt="" /></span>{% endif %}
  		<header class="major">
- 			<h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+ 			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
  			{% if post.description %}<p>{{ post.description }}</p>{% endif %}
  		</header>
  	</article>
