@@ -17,7 +17,7 @@
       <section id="banner" class id="style2">
             <div class="inner">
              <span class="image">
-                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
+                     <img src="{{ page.image | relative_url}}" alt="">
             </span>
                 <header class="major">
                     <h1> {{ page.tag}}</h1>
@@ -29,7 +29,7 @@
 <section id="one" class="tiles">
 	 {% for post in site.tags[page.tag] %}
    <article>
- 		{% if post.image %}<span class="image"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+ 		{% if post.image %}<span class="image"><img src="{{ post.image | relative_url }}" alt="" /></span>{% endif %}
  		<header class="major">
  			<h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
  			{% if post.description %}<p>{{ post.description }}</p>{% endif %}
