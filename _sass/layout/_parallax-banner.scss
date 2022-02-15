@@ -103,6 +103,7 @@
 		}
 
 		@include breakpoint(small) {
+			@include padding(3em, 0, (2em, 0, 0, 0));
 			top: -2.75em;
 			height: 60vh;
 
@@ -121,6 +122,7 @@
 		}
 
 		@include breakpoint(xsmall) {
+			@include padding(4em, 0, (2em, 0, 0, 0));
 			top: -2.75em;
 			height: 60vh;
 
@@ -130,7 +132,7 @@
 				}
 			}
 			> header {
-				margin-left: 0.5em;
+				margin-left: 2em;
 
 				h1 {
 					font-size: 2em;
