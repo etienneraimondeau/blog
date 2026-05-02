@@ -43,12 +43,7 @@
 
 /*# transition for the text*/
 		> .inner {
-			@include vendor('transition', (
-				'opacity 0.25s ease',
-				'transform 0.25s ease-out',
-				'filter 0.25s ease',
-				'-webkit-filter 0.25s ease'
-			));
+			@include vendor('transition', 'none');
 			padding: 0 !important;
 			position: relative;
 			z-index: 2;

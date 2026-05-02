@@ -182,8 +182,14 @@
 		}
 
 		@include breakpoint(small) {
-			height: 2.75em;
-			line-height: 2.75em;
+			height: 3.5em;
+			line-height: 3.5em;
+
+			nav {
+				a.nav-contact {
+					display: none;
+				}
+			}
 
 			.logo {
 				background-repeat: no-repeat;
