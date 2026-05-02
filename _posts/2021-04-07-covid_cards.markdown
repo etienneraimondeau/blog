@@ -6,7 +6,7 @@ date:   2021-03-04
 category: ['illustrations']
 tag: ['Portfolio']
 tools: ['Illustrator']
-description: Flashcard cards about each approved vaccine
+description: "COVID-19 vaccine illustrated flashcards — science communication cards explaining mRNA, viral vector, and protein subunit vaccines for public health outreach."
 image: assets/images/vaccine_cards/header-01.png
 ---
 

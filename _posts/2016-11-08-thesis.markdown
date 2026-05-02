@@ -6,7 +6,7 @@ date:   2016-01-10
 category: ['illustrations']
 tag: ['Portfolio']
 tools: ['Illustrator', 'Photoshop', 'LaTeX']
-description: About ribosomes and mRNA
+description: "Scientific illustrations of ribosome structure and mRNA translation, created for a structural biology PhD thesis at EMBL Grenoble. Science communication through visual design."
 image: assets/images/thesis/02.png
 ---
 

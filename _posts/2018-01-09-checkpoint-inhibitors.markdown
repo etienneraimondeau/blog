@@ -6,7 +6,7 @@ date:   2018-01-10
 category: ['infographics']
 tag: ['Portfolio']
 tools: ['Illustrator']
-description: how do they work and why are they cool?
+description: "Science illustration explaining immune checkpoint inhibitors — how PD-1, PD-L1, and CTLA-4 blockade unleashes the immune system against cancer. Biotech infographic for researchers and communicators."
 image: assets/images/checkpoints_inhibitors/Preview.png
 ---
 <div class="row">

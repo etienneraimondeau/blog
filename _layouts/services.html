@@ -4,7 +4,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
+<html lang="en">
 
 {% include head.html %}
 
@@ -30,43 +30,44 @@
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- Content -->
 <section id="one">
 	<div class="inner">
-		<!--<header class="major">
-			<h1 style="text-transform: uppercase">{{ page.title }}</h1>
-		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}-->
-		<p>{{ content }}</p>
+		{{ content }}
+	</div>
+</section>
 
-      <section id="contact">
-        <div class="inner">
-  			<form action="https://formspree.io/f/{{ site.email }}" method="POST">
-          <h3>If that sounds good, let's have a chat:</h3><br>
-  				<div class="field half first">
-  					<label for="name">Full Name (required)</label>
-  					<input type="text" name="name" id="name" />
-  				</div>
-  				<div class="field half">
-  					<label for="email">Email (required)</label>
-  					<input type="text" name="_replyto" id="email" />
-  				</div>
-  				<div class="field">
-  					<label for="message">Message</label>
-  					<textarea name="message" id="message" rows="6"></textarea>
-  				</div>
-  				<ul class="actions">
-  					<li><input type="submit" value="Send Message" class="special" /></li>
-  					<li><input type="reset" value="Clear" /></li>
-  				</ul>
-  			</form>
-       </div>
-  		</section>
+<!-- Contact form -->
+<section id="contact">
+	<div class="inner">
+		<form action="https://formspree.io/f/{{ site.email }}" method="POST">
+			<h3>Tell me about your project:</h3><br>
+			<div class="field half first">
+				<label for="name">Full Name (required)</label>
+				<input type="text" name="name" id="name" />
+			</div>
+			<div class="field half">
+				<label for="email">Email (required)</label>
+				<input type="text" name="_replyto" id="email" />
+			</div>
+			<div class="field">
+				<label for="project">What are you working on?</label>
+				<input type="text" name="project" id="project" placeholder="e.g. publication figure, pitch deck, outreach campaign..." />
+			</div>
+			<div class="field">
+				<label for="message">Tell me more</label>
+				<textarea name="message" id="message" rows="6" placeholder="Audience, timeline, any specific requirements..."></textarea>
+			</div>
+			<ul class="actions">
+				<li><input type="submit" value="Send Message" class="special" /></li>
+				<li><input type="reset" value="Clear" /></li>
+			</ul>
+		</form>
+	</div>
+</section>
 
 </div>
-</section>
     {% include footer.html %}
-    {% include text-expand.html %}
 
 </body>
 

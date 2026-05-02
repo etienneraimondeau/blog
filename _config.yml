@@ -2,9 +2,9 @@
 title: LaPipette
 subtitle:
 email: contact.lapipette@gmail.com
-description: LaPipette gathers cool infographics.
+description: Science communication & visual design — I make complex biology look beautiful.
 baseurl:  # the subpath of your site, e.g. /blog
-url: "www.lapipette.com" # the base hostname & protocol for your site
+url: "https://www.lapipette.com" # the base hostname & protocol for your site
 author:
 street_address:
 city:
@@ -29,9 +29,13 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/LaPipettelabs
 behance_url: https://www.behance.net/etienneraimondeau
+redbubble_url: https://www.redbubble.com/people/LaPipette/
 
 # build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
 
 sass:
   style: compressed
