@@ -32,13 +32,10 @@
 		}
 
 		> header {
-			@include vendor('transition', (
-				'opacity 1.5s ease',
-				'transform 0.5s ease-out',
-				'filter 0.5s ease',
-				'-webkit-filter 0.5s ease'
-			));
+			@include vendor('transition', 'none');
 			margin-left: 8em;
+			right: 2em;
+			max-width: calc(100% - 10em);
 			padding: 0 !important;
 			position: absolute;
 			z-index: 1;
@@ -93,7 +90,7 @@
 
 		@include breakpoint(medium) {
 			top: -2.75em;
-			height: 20vh;
+			height: 60vh;
 
 			>.scene {
 				object {
@@ -114,6 +111,8 @@
 			}
 			> header {
 				margin-left: 3em;
+				right: 1em;
+				max-width: calc(100% - 4em);
 
 				h1 {
 					font-size: 2em;
@@ -133,6 +132,8 @@
 			}
 			> header {
 				margin-left: 2em;
+				right: 1em;
+				max-width: calc(100% - 3em);
 
 				h1 {
 					font-size: 2em;
