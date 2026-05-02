@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 
 {% include head.html %}
 
@@ -53,24 +53,25 @@
 		      	 <section>
          <h3>Connect with me on other platforms:</h3><br>
          <div class="contact-method">
-           <span class="icon alt fa-instagram"></span>
-           <p><a href="{{ site.instagram_url }}">Instagram</a></p>
-           <span>
+           <span class="icon alt fa-brands fa-instagram"></span>
+           <p><a href="{{ site.instagram_url }}" target="_blank">Instagram</a></p>
          </div>
          <div class="contact-method">
-           <span class="icon alt fa-twitter"></span>
-           <p><a href="{{ site.twitter_url }}">Twitter</a></p>
-           <span>
+           <span class="icon alt fa-brands fa-twitter"></span>
+           <p><a href="{{ site.twitter_url }}" target="_blank">Twitter</a></p>
          </div>
          <div class="contact-method">
-           <span class="icon alt fa-facebook"></span>
-           <p><a href="{{ site.facebook_url }}/">Facebook</a></p>
-           <span>
+           <span class="icon alt fa-brands fa-facebook"></span>
+           <p><a href="{{ site.facebook_url }}" target="_blank">Facebook</a></p>
          </div>
-		      		<div class="contact-method">
-		      			<span class="icon alt fa-envelope"></span>
-		      			<a href="#">{{ site.email }}</a>
-		      		</div>
+         <div class="contact-method">
+           <span class="icon alt fa-brands fa-behance"></span>
+           <p><a href="{{ site.behance_url }}" target="_blank">Behance</a></p>
+         </div>
+         <div class="contact-method">
+           <span class="icon alt fa-solid fa-envelope"></span>
+           <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+         </div>
 			<!--/section>
 			<<section>
 				<div class="contact-method">

@@ -6,7 +6,7 @@ date:   2018-01-10
 category: ['infographics']
 tag: ['Portfolio']
 tools: ['Illustrator']
-description: How is it made and is it scary?
+description: "Illustrated explainer on cultured meat — how lab-grown meat is produced from animal cells, and what it means for the future of food and sustainable biotechnology."
 image: assets/images/lab_meat/Preview.svg
 ---
 
