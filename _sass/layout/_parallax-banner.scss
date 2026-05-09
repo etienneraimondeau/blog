@@ -33,8 +33,7 @@
 
 		> header {
 			@include vendor('transition', 'none');
-			margin-left: 8em;
-			right: 2em;
+			left: 8em;
 			max-width: calc(100% - 10em);
 			padding: 0 !important;
 			position: absolute;
@@ -110,8 +109,7 @@
 				}
 			}
 			> header {
-				margin-left: 3em;
-				right: 1em;
+				left: 3em;
 				max-width: calc(100% - 4em);
 
 				h1 {
@@ -131,8 +129,7 @@
 				}
 			}
 			> header {
-				margin-left: 2em;
-				right: 1em;
+				left: 2em;
 				max-width: calc(100% - 3em);
 
 				h1 {
