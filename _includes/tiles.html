@@ -1,20 +1,44 @@
 <section id="one" class="tiles">
-	{% for post in site.posts limit:site.tiles-count offset:1 %}
 	{% if site.tiles-source == 'posts' %}
-        <article>
-                 <header class="major">
-                        <p>{{ post.category | join:' | ' }}</p>
-                        <h3>{{ post.title }}</h3>
-                        <p>{{ post.description }}</p>
-                </header>
-                <a href="{{ post.url  | relative_url }}" class="link">
-                <span class="image">
-                        <img src="{{ post.image }}" alt="" />
-                </span>
-                </a>
-        </article>
+	{% assign pinned_posts = site.posts | where: "pinned", true %}
+	{% if pinned_posts.size > 0 %}
+		{% assign tile_count = 0 %}
+		{% for post in site.posts %}
+			{% unless post.pinned %}
+				{% if tile_count < site.tiles-count %}
+				<article>
+					<header class="major">
+						<p>{{ post.category | join:' | ' }}</p>
+						<h3>{{ post.title }}</h3>
+						<p>{{ post.description }}</p>
+					</header>
+					<a href="{{ post.url | relative_url }}" class="link">
+					<span class="image">
+						<img src="{{ post.image }}" alt="" />
+					</span>
+					</a>
+				</article>
+				{% assign tile_count = tile_count | plus: 1 %}
+				{% endif %}
+			{% endunless %}
+		{% endfor %}
+	{% else %}
+		{% for post in site.posts limit:site.tiles-count offset:1 %}
+		<article>
+				 <header class="major">
+						<p>{{ post.category | join:' | ' }}</p>
+						<h3>{{ post.title }}</h3>
+						<p>{{ post.description }}</p>
+				</header>
+				<a href="{{ post.url  | relative_url }}" class="link">
+				<span class="image">
+						<img src="{{ post.image }}" alt="" />
+				</span>
+				</a>
+		</article>
+		{% endfor %}
 	{% endif %}
-	{% endfor %}
+	{% endif %}
 	{% for page in site.pages limit:site.tiles-count%}
 	{% if site.tiles-source == 'pages' %}
         <article>
