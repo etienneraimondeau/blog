@@ -4,8 +4,8 @@ title: "What is LaPipette?"
 permalink: /about-lapipette
 date: 2026-05-09
 pinned: true
-description: "Science communication & visual design — making complex biology look beautiful."
-image: assets/images/about/about-banner-01.svg
+description: 
+image: assets/images/visualise/header-05.png
 ---
 
 {% include text-expand.html %}
@@ -19,7 +19,7 @@ LaPipette is a science communication and visual design studio. I partner with sc
 		<p>Editorial illustrations</p>
 		<p>Visual identity for labs & startups</p>
 		<h4>Tools</h4>
-		<p>Illustrator · Photoshop · Procreate</p>
+		<p>Illustrator</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Who it's for</h4>
