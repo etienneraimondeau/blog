@@ -1,7 +1,8 @@
 ---
 layout: services
 title: Work with me
-nav-menu: true
+nav-menu: false
+sitemap: false
 permalink: /services/
 description: Science illustration & visual design for researchers, biotech companies, and science communicators.
 image: /assets/images/visualise/header-04.png
