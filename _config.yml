@@ -4,7 +4,7 @@ subtitle:
 email: contact.lapipette@gmail.com
 description: Science communication & visual design — I make complex biology look beautiful.
 baseurl:  # the subpath of your site, e.g. /blog
-url: "https://www.lapipette.com" # the base hostname & protocol for your site
+url: "https://lapipette.com" # the base hostname & protocol for your site
 author:
 street_address:
 city:
