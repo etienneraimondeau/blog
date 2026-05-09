@@ -4,16 +4,6 @@ Portfolio and blog for [lapipette.com](https://lapipette.com) — scientific inf
 
 Built with [Jekyll](https://jekyllrb.com) and hosted on GitHub Pages.
 
----
-
-## Local development
-
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Opens at `http://127.0.0.1:4000`.
 
 ---
 
