@@ -16,7 +16,7 @@
     <section id="banner" class="major">
         <div class="inner">
               <span class="image">
-                    <img src="{{page.image }}" alt="" />
+                    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" />
             </span>
             <header class="major">
                 <h1>{{ page.title }}</h1>

@@ -14,7 +14,7 @@
 					</header>
 					<a href="{{ post.url | relative_url }}" class="link">
 					<span class="image">
-						<img src="{{ post.image }}" alt="" />
+						<img src="{{ post.image | relative_url }}" alt="{{ post.title }}" />
 					</span>
 					</a>
 				</article>
@@ -25,14 +25,14 @@
 	{% else %}
 		{% for post in site.posts limit:site.tiles-count offset:1 %}
 		<article>
-				 <header class="major">
+				<header class="major">
 						<p>{{ post.category | join:' | ' }}</p>
 						<h3>{{ post.title }}</h3>
 						<p>{{ post.description }}</p>
 				</header>
-				<a href="{{ post.url  | relative_url }}" class="link">
+				<a href="{{ post.url | relative_url }}" class="link">
 				<span class="image">
-						<img src="{{ post.image }}" alt="" />
+						<img src="{{ post.image | relative_url }}" alt="{{ post.title }}" />
 				</span>
 				</a>
 		</article>
@@ -48,7 +48,7 @@
                 </header>
                  <a href="{{ page.url | relative_url  }}" class="link">
                  <span class="image">
-                        <img src="{{ page.image }}" alt="" />
+                        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" />
                 </span>
                 </a>
         </article>
