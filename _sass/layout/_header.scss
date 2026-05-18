@@ -34,7 +34,7 @@
 			@include vendor('background-image', 'url("../images/logo_22_simple.svg")');
 				background-size: 7em;
 				background-repeat: no-repeat;
-				background-position: left center;
+				background-position: left 42%;
 				//margin-left:0.5%;
 				//margin-top:0.5%;
 
@@ -234,6 +234,11 @@
 			}
 
 			nav {
+				a:not([href="#menu"]) {
+					font-size: 0.7em;
+					padding: 0 0.3em;
+				}
+
 				a {
 					&[href="#menu"] {
 						overflow: hidden;
