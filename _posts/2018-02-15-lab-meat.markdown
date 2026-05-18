@@ -32,7 +32,7 @@ This article focuses mainly on beef but chicken, duck and even tuna will reach t
 **To learn more about cultured meat check the infographic below!**
 
 
-![My helpful checkpoint inhibitor infographic](assets/images/lab_meat/180220_Labmeat.png)
+![Lab-grown meat infographic — how cultured meat is produced from animal cells](assets/images/lab_meat/180220_Labmeat.png)
 
 ### References (order listed in the infographic)
 1. [Culturedbeef.org, "FAQ"](https://culturedbeef.org/sites/intranet.mumc.maastrichtuniversity.nl/files/culturedbeef_mumc_maastrichtuniversity_nl/frequently_asked_questions.pdf){:target="_blank"}
