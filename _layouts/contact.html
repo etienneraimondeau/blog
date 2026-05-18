@@ -51,23 +51,31 @@
 		         </section>
 		         <section class="split">
 		      	 <section>
-         <h3>Connect with me on other platforms:</h3><br>
+         <h3>Connect with me:</h3><br>
+         {% if site.linkedin_url %}
+         <div class="contact-method">
+           <span class="icon alt fa-brands fa-linkedin"></span>
+           <p><a href="{{ site.linkedin_url }}" target="_blank">LinkedIn</a></p>
+         </div>
+         {% endif %}
+         {% if site.instagram_url %}
          <div class="contact-method">
            <span class="icon alt fa-brands fa-instagram"></span>
            <p><a href="{{ site.instagram_url }}" target="_blank">Instagram</a></p>
          </div>
-         <div class="contact-method">
-           <span class="icon alt fa-brands fa-twitter"></span>
-           <p><a href="{{ site.twitter_url }}" target="_blank">Twitter</a></p>
-         </div>
-         <div class="contact-method">
-           <span class="icon alt fa-brands fa-facebook"></span>
-           <p><a href="{{ site.facebook_url }}" target="_blank">Facebook</a></p>
-         </div>
+         {% endif %}
+         {% if site.behance_url %}
          <div class="contact-method">
            <span class="icon alt fa-brands fa-behance"></span>
            <p><a href="{{ site.behance_url }}" target="_blank">Behance</a></p>
          </div>
+         {% endif %}
+         {% if site.twitter_url %}
+         <div class="contact-method">
+           <span class="icon alt fa-brands fa-x-twitter"></span>
+           <p><a href="{{ site.twitter_url }}" target="_blank">X</a></p>
+         </div>
+         {% endif %}
          <div class="contact-method">
            <span class="icon alt fa-solid fa-envelope"></span>
            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
