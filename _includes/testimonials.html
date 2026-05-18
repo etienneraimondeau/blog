@@ -1,0 +1,19 @@
+{% if site.data.testimonials and site.data.testimonials.size > 0 %}
+<section id="testimonials">
+  <div class="inner">
+    <header class="major">
+      <h3>What clients say</h3>
+    </header>
+    <div class="testimonials-grid">
+      {% for item in site.data.testimonials %}
+      <blockquote>
+        <p>{{ item.quote }}</p>
+        <footer>
+          <strong>{{ item.name }}</strong>{% if item.role %} — {{ item.role }}{% endif %}
+        </footer>
+      </blockquote>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

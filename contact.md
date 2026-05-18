@@ -1,9 +1,17 @@
 ---
-title: Contact
+title: "Work With Me "
 layout: contact
-description: 'Get in touch and hire me!'
+description: "Got a project in mind? Tell me about it!"
 permalink: /contact/
 nav-menu: true
 ---
 
-Questions or ideas?  If you’re interested in my work or want to discuss projects, please fill this form and let's have a chat!
+**Got a project in mind?** Tell me a bit about what you need — the science, the audience, and your timeline. I'll get back to you within 48 hours.
+
+Not sure if your project is a fit? Just say hello. A short conversation is always free.
+
+**Useful things to include:**
+- What you're working on (paper, pitch deck, outreach campaign, etc.)
+- Who the audience is
+- When you need it
+

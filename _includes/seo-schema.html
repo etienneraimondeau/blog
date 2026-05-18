@@ -47,6 +47,25 @@
   ]
 }
 </script>
+{% elsif page.url == '/about/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "description": "Scientific information design studio — science illustration, data visualisation, and visual stories for biotech companies and academic researchers.",
+  "founder": {
+    "@type": "Person",
+    "name": "Etienne Raimondeau",
+    "jobTitle": "Scientific Information Designer & Biotech PM",
+    "alumniOf": { "@type": "Organization", "name": "EMBL Grenoble" }
+  },
+  "areaServed": "GB",
+  "priceRange": "££",
+  "knowsAbout": ["Scientific Illustration", "Data Visualisation", "Bioinformatics", "Biotech", "Mechanism of Action Figures"]
+}
+</script>
 {% else %}
 <script type="application/ld+json">
 {
