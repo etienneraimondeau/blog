@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Work with me"
 layout: contact
 description: "Got a project in mind? Tell me about it!"
 permalink: /contact/

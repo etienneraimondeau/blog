@@ -32,7 +32,7 @@ The potential of checkpoints was only discovered a few years ago but these types
 **Let’s explore what checkpoints inhibitors are and why they are a very popular new type of therapy against cancers**
 
 
-![My helpful checkpoint inhibitor infographic](assets/images/checkpoints_inhibitors/171220_Checkpoint_150p.png)
+![Immune checkpoint inhibitor infographic — PD-1, PD-L1, and CTLA-4 blockade in cancer immunotherapy](assets/images/checkpoints_inhibitors/171220_Checkpoint_150p.png)
 
 ### References
 
