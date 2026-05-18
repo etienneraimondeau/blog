@@ -1,36 +1,52 @@
 ---
 layout: about
-title: About
+title: "About "
 nav-menu: true
 permalink: /about/
-description: PhD biochemist. Biotech R&D. Science illustrator.
+description: "Science Illustration & Information Design"
 ---
 
-**Who is LaPipette?**
+LaPipette is a science illustration and data visualisation studio. I partner with researchers and biotech teams to turn complex mechanisms and data into visuals that communicate clearly — whether that's a publication figure, a pitch deck, an investor brief, or an outreach campaign.
 
-Hi, I'm Etienne. My background sits at the intersection of science and communication — and LaPipette is where that combination does its best work.
+---
 
-I have a PhD in biochemistry and structural biology from EMBL (European Molecular Biology Laboratory) in Grenoble, where I spent years working on protein structure and molecular mechanisms. After my doctorate I moved into biotech R&D, working across early-stage drug discovery and translational research — the phase where the science is complex, the stakes are high, and communicating clearly to stakeholders matters enormously.
+## Who I am
 
-That experience led me into product management, where I learned how to bridge scientific teams and business decisions: aligning cross-functional stakeholders and distilling technical depth into something an executive or a customer can act on.
+Hi, I'm Etienne. I have a PhD in biochemistry and structural biology from EMBL (European Molecular Biology Laboratory) in Grenoble, where I spent years working on protein structure and molecular mechanisms. After my doctorate I moved into biotech R&D — early-stage drug discovery, translational research, and eventually product management at Oxford Nanopore Technologies, where I worked on CRISPR sequencing and product launches.
 
+That combination — deep scientific training, commercial biotech experience, and a lifelong obsession with making things look beautiful — is what LaPipette is built on.
 
 ![Etienne](/assets/images/visualise/etienne_cat.png){: .center-image }
 
-**What I do**
+## Why it matters
 
-I work with researchers, biotech companies, and science communicators to create visuals that make complex biology clear — publication figures, mechanism of action illustrations, pitch deck graphics, animated explainers, whitepaper artwork, and science outreach campaigns.
+After 15 years studying and working in molecular biology, I understand the science I'm illustrating — at the mechanistic level, not just the aesthetic one. That's the difference between a figure that looks good and one that's accurate enough to publish, pitch, or teach with.
 
-My clients range from academic labs preparing high-impact papers to biotech startups building their first investor narrative.
+## What I make
 
-**Why LaPipette?**
+**Science illustration**
+Mechanism of action diagrams, publication figures, conference posters, whitepaper artwork, science outreach visuals — anything where accuracy at the molecular level matters.
 
-I travelled for half a year following my PhD and realised that access to education and in particular science can be difficult in some parts of the world. Unlike some people I met, I was lucky enough to be able to follow my passion and study biology. In my evenings and weekends I started personal projects by researching and illustrating recent major advances in biotechnology like novel cancer therapies or in vitro culture meat.
+**Data visualisation**
+Genomics and bioinformatics figures, data dashboards in Tableau, narrative data stories through a dataset. I can read and validate the underlying biological data, not just make charts look good. That's the difference when the data is complex.
 
-I think visuals and animations are great tools to capture the audience imagination and inspire further learning.
+**Brand & communications**
+Visual identity for labs and startups, pitch deck graphics, editorial illustrations, science outreach campaigns.
 
-**How does this website work?**
+## How we'd work together
 
-Built with Jekyll and hosted on GitHub Pages, using a customised version of the [Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme).
+**1. Brief** — A short conversation about your project: the science, the audience, and what you need the visual to do. No jargon, no lengthy forms — just a chat.
 
-![visual](/assets/images/visualise/header-04.png)
+**2. Concept** — An initial sketch or style direction based on your brief. You give feedback before any detailed work starts.
+
+**3. Illustration** — I develop the final artwork in rounds, sharing progress along the way. You stay in control of the direction; I handle the craft.
+
+**4. Delivery** — Production-ready files in the formats you need — print, web, presentation, or all three. Source files included.
+
+---
+
+**Ready to start?**
+
+<ul class="actions">
+  <li><a href="/contact/" class="button special">Work with me →</a></li>
+</ul>

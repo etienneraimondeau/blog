@@ -12,24 +12,17 @@
 
     {% include header.html %}
 
-    <!-- Banner-->
-    {% assign pinned_posts = site.posts | where: "pinned", true %}
-    {% if pinned_posts.size > 0 %}
-      {% assign banner_post = pinned_posts.first %}
-    {% else %}
-      {% assign banner_post = site.posts.first %}
-    {% endif %}
+    <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
-             <span class="image">
-                    <img src="{{ banner_post.image }}" alt="" />
+            <span class="image">
+                <img src="{{ page.image | relative_url }}" alt="LaPipette — science illustration and data visualisation studio" />
             </span>
             <header class="major">
-               <!-- <h2>Read about the latest work: </h2><br />-->
-                <h1><a href="{{ banner_post.url | relative_url }}">{{ banner_post.title }}</a></h1>
+                <h1>{{ site.title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ banner_post.description }}</p>
+                <p>{{ page.description }}</p>
             </div>
         </div>
     </section>
@@ -47,14 +40,25 @@
         <!-- One -->
         {% include tiles.html %}
 
+        <!-- Shop teaser -->
+        {% if site.redbubble_url %}
+        <section id="shop-teaser">
+            <div class="inner">
+                <h3>Science you can wear</h3>
+                <p>Prints, t-shirts, and totes featuring LaPipette illustrations.</p>
+                <a href="{{ site.redbubble_url }}" class="button" target="_blank">Browse the shop →</a>
+            </div>
+        </section>
+        {% endif %}
+
         <!-- CTA -->
         <section id="cta">
             <div class="inner">
                 <h3>Ready to collaborate?</h3>
                 <p>Whether you need a single figure for a publication or a full visual identity for your lab or startup, I'd love to hear about your project.</p>
                 <ul class="actions">
-                    <li><a href="{{ "/services/" | relative_url }}" class="button special">Work with me</a></li>
-                    <li><a href="{{ "/contact/" | relative_url }}" class="button">Get in touch</a></li>
+                    <li><a href="{{ "/about/" | relative_url }}" class="button special">How I work</a></li>
+                    <li><a href="{{ "/contact/" | relative_url }}" class="button">Work with me</a></li>
                 </ul>
             </div>
         </section>
