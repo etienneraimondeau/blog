@@ -1,0 +1,65 @@
+{% if page.layout == 'post' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  {% if page.image %}"image": {{ page.image | absolute_url | jsonify }},{% endif %}
+  "url": {{ page.url | absolute_url | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "Etienne Raimondeau",
+    "url": {{ "/about/" | absolute_url | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ "/assets/images/favicon.svg" | absolute_url | jsonify }}
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ page.url | absolute_url | jsonify }}
+  }
+}
+</script>
+{% elsif page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "logo": {{ "/assets/images/favicon.svg" | absolute_url | jsonify }},
+  "sameAs": [
+    {% if site.twitter_url != '' %}"{{ site.twitter_url }}"{% if site.instagram_url != '' or site.facebook_url != '' or site.behance_url != '' or site.redbubble_url != '' %},{% endif %}{% endif %}
+    {% if site.instagram_url != '' %}"{{ site.instagram_url }}"{% if site.facebook_url != '' or site.behance_url != '' or site.redbubble_url != '' %},{% endif %}{% endif %}
+    {% if site.facebook_url != '' %}"{{ site.facebook_url }}"{% if site.behance_url != '' or site.redbubble_url != '' %},{% endif %}{% endif %}
+    {% if site.behance_url != '' %}"{{ site.behance_url }}"{% if site.redbubble_url != '' %},{% endif %}{% endif %}
+    {% if site.redbubble_url != '' %}"{{ site.redbubble_url }}"{% endif %}
+  ]
+}
+</script>
+{% else %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ page.title | default: site.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | jsonify }}
+  }
+}
+</script>
+{% endif %}

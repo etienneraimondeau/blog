@@ -4,7 +4,7 @@ title: "What is LaPipette?"
 permalink: /about-lapipette
 date: 2026-05-09
 pinned: true
-description: 
+description: "LaPipette is a science communication and visual design studio — turning complex biology into clear, compelling visuals for researchers, biotech teams, and science communicators."
 image: assets/images/visualise/header-05.png
 ---
 
