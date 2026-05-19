@@ -5,7 +5,7 @@ permalink: /aaa
 date:   2025-06-30
 category: ['Leaflet']
 tag: ['Portfolio']
-tools: ['Illustrator']
+tools: ['Fresco', 'Photoshop','Illustrator']
 description: Information design for the Amyloidosis Research Consortium — translating a complex protein misfold cascade into a patient-accessible 2-page leaflet.
 image: assets/images/ARC/250630_ARC_preview.png
 nav-menu: false
@@ -45,10 +45,10 @@ The leaflet follows the logic of the disease, not a generic "what is / symptoms 
 
 1. **What is AA amyloidosis?** — the definition, scoped precisely (complication of chronic inflammation, rare even among at-risk patients)
 2. **How does AA develop?** — the SAA cascade, illustrated mechanistically: healthy state → prolonged inflammation → AA fibril formation → organ deposition
-3. **Signs, symptoms, and diagnosis** — organ involvement map, key markers (ESR, CRP, SAA), biopsy requirement
+3. **Signs, symptoms, and diagnosis** — organ involvement map, key markers, biopsy requirement
 4. **Prevention and treatment** — the central insight: treat the underlying inflammation, not the deposits
 
-The visual anchor is the SAA mechanism diagram on page one. It is drawn to be accurate at the protein-biology level — correct spatial logic, correct directionality — while remaining accessible to a non-scientist reader.
+The visual anchor is the SAA mechanism diagram on page one. It is drawn to be accurate at the protein-biology level (I did check the 3d structure of SAA, yes) — correct spatial logic, correct directionality — while remaining accessible to a non-scientist reader.
 
 ---
 ### From first draft to final
