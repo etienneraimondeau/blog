@@ -16,7 +16,7 @@ image: assets/images/checkpoints_inhibitors/Preview.png
     <h4>Tools</h4>
       <p>{{ page.tools }}</p>
     <h4>Category</h4>
-    	<p><a href="{{ site.baseurl }}/category/{{ page.category }}.html" class="link">{{ page.category }}</a></p>
+    	<p><a href="{{ site.baseurl }}/category/{{ page.category[0] | downcase }}/" class="link">{{ page.category }}</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Context</h4>
@@ -32,7 +32,7 @@ The potential of checkpoints was only discovered a few years ago but these types
 **Let’s explore what checkpoints inhibitors are and why they are a very popular new type of therapy against cancers**
 
 
-![Immune checkpoint inhibitor infographic — PD-1, PD-L1, and CTLA-4 blockade in cancer immunotherapy](assets/images/checkpoints_inhibitors/171220_Checkpoint_150p.png)
+![Immune checkpoint inhibitor infographic — PD-1, PD-L1, and CTLA-4 blockade in cancer immunotherapy](assets/images/171220_checkpoints_inhibitors/Checkpoint_150p.png)
 
 ### References
 
