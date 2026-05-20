@@ -7,7 +7,7 @@ category: ['infographics']
 tag: ['Portfolio']
 tools: ['Illustrator']
 description: "Illustrated explainer on cultured meat — how lab-grown meat is produced from animal cells, and what it means for the future of food and sustainable biotechnology."
-image: assets/images/lab_meat/Preview.svg
+image: assets/images/180220_lab_meat/Preview.svg
 ---
 
 <div class="row">
@@ -17,7 +17,7 @@ image: assets/images/lab_meat/Preview.svg
     <h4>Tools</h4>
       <p>{{ page.tools }}</p>
     <h4>Category</h4>
-    	<p><a href="{{ site.baseurl }}/category/{{ page.category }}.html" class="link">{{ page.category }}</a></p>
+    	<p><a href="{{ site.baseurl }}/category/{{ page.category[0] | downcase }}/" class="link">{{ page.category }}</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Context</h4>
@@ -32,7 +32,7 @@ This article focuses mainly on beef but chicken, duck and even tuna will reach t
 **To learn more about cultured meat check the infographic below!**
 
 
-![Lab-grown meat infographic — how cultured meat is produced from animal cells](assets/images/lab_meat/180220_Labmeat.png)
+![Lab-grown meat infographic — how cultured meat is produced from animal cells](assets/images/180220_lab_meat/180220_Labmeat.png)
 
 ### References (order listed in the infographic)
 1. [Culturedbeef.org, "FAQ"](https://culturedbeef.org/sites/intranet.mumc.maastrichtuniversity.nl/files/culturedbeef_mumc_maastrichtuniversity_nl/frequently_asked_questions.pdf){:target="_blank"}
