@@ -1,17 +1,16 @@
 ---
 title: "Work with me"
 layout: contact
-description: "Got a project in mind? Tell me about it!"
+description: "Get in touch about a project or just to say hello."
 permalink: /contact/
 nav-menu: true
 ---
 
-**Got a project in mind?** Tell me a bit about what you need — the science, the audience, and your timeline. I'll get back to you as soon as possible.
+**Got a project?** Tell me about the science, the audience, and your timeline. I'll let you know whether it's a fit and what next steps look like.
 
-Not sure if your project is a fit? Just say hello. A short conversation is always free.
+[//]: # (**Found a Data Story and want to talk?** That's also welcome — just say hello.)
 
-**Useful things to include:**
-- What you're working on (paper, pitch deck, outreach campaign, etc.)
+**Useful to include:**
+- What you're working on
 - Who the audience is
-- When you need it
-
+- Your timeline, if you have one
