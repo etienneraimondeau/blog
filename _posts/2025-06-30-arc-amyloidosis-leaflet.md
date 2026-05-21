@@ -3,7 +3,7 @@ layout: post
 title: AA Amyloidosis Patient Infosheet
 permalink: /aaa
 date: 2025-06-30
-category: ['client_work']
+category: ['client work']
 tag: ['Portfolio']
 tools: ['Fresco', 'Photoshop','Illustrator']
 description: Information design for the Amyloidosis Research Consortium — translating a complex protein misfold cascade into a patient-accessible 2-page leaflet.
@@ -18,7 +18,7 @@ nav-menu: false
     <h4>Tools</h4>
     <p>Illustrator, Fresco </p>
 		<h4>Category</h4>
-    	<p><a href="{{ site.baseurl }}/category/{{ page.category[0] | downcase }}/" class="link">{{ page.category }}</a></p>
+    	<p><a href="{{ site.baseurl }}/category/{{ page.category[0] | downcase | replace: ' ', '_' }}/" class="link">{{ page.category }}</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Context</h4>
