@@ -7,7 +7,7 @@ category: ['infographics']
 tag: ['Portfolio']
 tools: ['Illustrator']
 description: "Science illustration explaining immune checkpoint inhibitors — how PD-1, PD-L1, and CTLA-4 blockade unleashes the immune system against cancer. Biotech infographic for researchers and communicators."
-image: assets/images/checkpoints_inhibitors/Preview.png
+image: assets/images/171220_checkpoints_inhibitors/Preview.png
 ---
 <div class="row">
 	<div class="4u 12u$(medium)">

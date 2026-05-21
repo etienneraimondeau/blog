@@ -40,15 +40,11 @@ The design problem: how do you make a three-step molecular cascade (inflammation
 
 The design went through three distinct phases.
 
-**Drafts — establishing the content architecture and visual langague**
-
 - The first draft was built in Fresco drawing directly with the customer. The priority was getting the information hierarchy right: what does a patient need to understand, and in what order? Layout, colour, and visual style were deliberately left rough at this stage.
 - The design then moved into Illustrator and the visual language was established: the SAA cascade diagram, the organ involvement illustration, and the typographic system. 
 - In a 3rd stage, the layout and illustrations were refined to support the flow of information while keeping the story as simple as possible for non-experts.
 
 ![First draft — content structure and rough layout](assets/images/250630_ARC/ARC_draft.png)
-
-**Final — delivered for print and web**
 
 Mid way through the process it was clear that the final product needed to be printed so we switched to a 2 page layout, cleared for both print (300 dpi) and web (72 dpi) export. The infosheet is accurate at the protein-biology level while remaining navigable to a non-scientist reader. 
 
