@@ -3,7 +3,7 @@ layout: post
 title: AA Amyloidosis Patient Infosheet
 permalink: /aaa
 date: 2025-06-30
-category: ['infographics']
+category: ['client_work']
 tag: ['Client']
 tools: ['Fresco', 'Photoshop','Illustrator']
 description: Information design for the Amyloidosis Research Consortium — translating a complex protein misfold cascade into a patient-accessible 2-page leaflet.
