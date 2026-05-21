@@ -197,7 +197,7 @@ Populate with real quotes — placeholder copy is fine to stub the layout first.
 | `2018-01-09-checkpoint-inhibitors.markdown` | infographics | Portfolio | 2018 |
 | `2018-02-15-lab-meat.markdown` | infographics | Portfolio | 2018 |
 | `2021-04-07-covid_cards.markdown` | illustrations | Portfolio | 2021 |
-| `2025-06-30-arc-amyloidosis-leaflet.md` | client_work | Client | 2025 |
+| `2025-06-30-arc-amyloidosis-leaflet.md` | client_work | Portfolio | 2025 |
 
 **Image folder naming convention (established May 2026):** All `assets/images/` subfolders use date-prefixed format: `YYMMDD_name` (e.g., `250630_ARC`, `171005_CART`, `171220_checkpoints_inhibitors`). New post image folders must follow this convention.
 
