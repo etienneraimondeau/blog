@@ -23,7 +23,7 @@
 			{% endunless %}
 		{% endfor %}
 	{% else %}
-		{% for post in site.posts limit:site.tiles-count offset:1 %}
+		{% for post in site.posts limit:site.tiles-count %}
 		<article>
 				<header class="major">
 						<p>{{ post.category | join:' | ' }}</p>
