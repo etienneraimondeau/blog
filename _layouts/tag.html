@@ -14,10 +14,10 @@
 
 <!-- Title -->
 <div id="main" class="alt">
-      <section id="banner" class id="style2">
+      <section id="banner" class="major">
             <div class="inner">
              <span class="image">
-                     <img src="{{ page.image | relative_url}}" alt="">
+                     <img src="{{ page.image | relative_url}}" alt="{{ page.title }}">
             </span>
                 <header class="major">
                     <h1> {{ page.title }}</h1>
@@ -29,7 +29,7 @@
 <section id="one" class="tiles">
 	 {% for post in site.tags[page.tag] %}
    <article>
- 		{% if post.image %}<span class="image"><img src="{{ post.image | relative_url }}" alt="" /></span>{% endif %}
+ 		{% if post.image %}<span class="image"><img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy" /></span>{% endif %}
  		<header class="major">
  			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
  			{% if post.description %}<p>{{ post.description }}</p>{% endif %}

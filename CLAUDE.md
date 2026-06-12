@@ -11,7 +11,7 @@ Strategy context lives in: `/Users/etienne/Documents/Claude/Projects/LaPipette/C
 
 Stack: Jekyll + Forty theme (Andrew Banchich) + GitHub Pages
 Repo: `/Users/etienne/Documents/LaPipette/blog`
-Live at: https://www.lapipette.com
+Live at: https://lapipette.com  (canonical host is the apex domain — `_config.yml` `url` and `CNAME` both use `lapipette.com`, no `www`)
 
 Three audiences the site must serve:
 1. **Hiring managers and scientific leads** — discovering lapipette in the context of a job application or referral; need to see genuine scientific thinking, not just aesthetic skill
@@ -67,8 +67,8 @@ Note: `services.md` deleted (May 2026) — content consolidated into `about.md`.
 
 All SEO work lives in `_includes/head.html`, `_config.yml`, and page front matter.
 
-### Structured data (JSON-LD) — not yet implemented
-Add to `_includes/head.html` after the Twitter Card block:
+### Structured data (JSON-LD) — ✅ implemented
+Implemented in `_includes/seo-schema.html` (included from `head.html`). It emits page-type-aware schema: `Organization` on the homepage, `ProfessionalService` on `/about/`, `BlogPosting` on posts, and a `WebPage` fallback elsewhere — all `jsonify`-escaped. The reference snippet below is kept for context only; the live implementation is richer (it adds `knowsAbout`, `priceRange`, `areaServed`, publisher/logo).
 
 ```html
 <!-- Structured data: Person + ProfessionalService -->
@@ -77,7 +77,7 @@ Add to `_includes/head.html` after the Twitter Card block:
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
   "name": "LaPipette",
-  "url": "https://www.lapipette.com",
+  "url": "https://lapipette.com",
   "description": "Scientific information design studio — science illustration, data visualisation, and visual stories for biotech companies and academic researchers.",
   "founder": {
     "@type": "Person",
@@ -117,8 +117,8 @@ For portfolio posts, add a `CreativeWork` block in the post layout (`_layouts/po
 - `about.md` — `"About"` ✅
 - `contact.md` — `"Work with me"` ✅
 
-### Image alt text — audit required
-Every `<img>` in portfolio posts must have a descriptive `alt` attribute. Check all posts in `_posts/` for bare `![](/path)` image tags and add meaningful alt text (e.g., `alt="CAR-T cell mechanism of action diagram"`).
+### Image alt text — ✅ done
+All inline post images already carry descriptive alt text (audited Jun 2026 — no bare `![](/path)` tags remain). Keep this up for new posts. Inline post images also now carry `loading="lazy"` via the kramdown `{:loading="lazy"}` IAL convention.
 
 ### Open Graph image — homepage
 `index.md` has `image: assets/images/visualise/header-05.png`. ✅ Set. Confirm this looks good as a 1200×630px social share crop — swap for a portfolio image if header-05 doesn't represent the work well.
@@ -197,7 +197,7 @@ Populate with real quotes — placeholder copy is fine to stub the layout first.
 | `2018-01-09-checkpoint-inhibitors.markdown` | infographics | Portfolio | 2018 |
 | `2018-02-15-lab-meat.markdown` | infographics | Portfolio | 2018 |
 | `2021-04-07-covid_cards.markdown` | illustrations | Portfolio | 2021 |
-| `2025-06-30-arc-amyloidosis-leaflet.md` | client_work | Portfolio | 2025 |
+| `2025-06-30-arc-amyloidosis-leaflet.md` | client-work | Portfolio | 2025 |
 
 **Image folder naming convention (established May 2026):** All `assets/images/` subfolders use date-prefixed format: `YYMMDD_name` (e.g., `250630_ARC`, `171005_CART`, `171220_checkpoints_inhibitors`). New post image folders must follow this convention.
 
@@ -212,7 +212,7 @@ Front matter required: `layout`, `title`, `date`, `category`, `tag: ['Portfolio'
 | `illustrations` | `category/illustrations.html` | Active |
 | `infographics` | `category/infographics.html` | Active |
 | `data-stories` | not yet created | Pending FC Nantes post |
-| `client_work` | `category/client_work.html` at `/category/client/` | Page exists but **no post uses this category yet** — ARC is categorized as `infographics`. Either recategorize ARC + Maxwell to `client_work`, or repurpose/remove the page. |
+| `client-work` | `category/client_work.html` at `/category/client-work/` | Active — ARC post uses this category. Category values are slug form (lowercase, hyphenated); the homepage tile prettifies them for display via `replace:'-',' ' | capitalize`. (Note: the FC Nantes WIP still uses scalar `category: data-stories` rather than the array `['data-stories']` form — align it when that piece leaves WIP.) |
 
 ### Data Stories — new portfolio category (May 2026)
 
@@ -243,7 +243,7 @@ These are not optional — they are what separates a Data Stories post from a re
 title: LaPipette
 email: contact.lapipette@gmail.com
 description: "Science illustration and data visualisation — I make complex biology look beautiful."
-url: "https://www.lapipette.com"
+url: "https://lapipette.com"
 tiles-source: posts
 tiles-count: 10
 instagram_url: https://www.instagram.com/lapipette.labs/
@@ -251,7 +251,7 @@ behance_url: https://www.behance.net/etienneraimondeau
 redbubble_url: https://www.redbubble.com/people/LaPipette/
 ```
 
-Pending: `linkedin_url` — add when Etienne confirms his LinkedIn URL.
+`linkedin_url` — ✅ set (`https://www.linkedin.com/in/etienneraimondeau/`).
 
 ---
 
@@ -305,7 +305,8 @@ Curious, playful, rigorous. Short sentences. Science as discovery, not lecture. 
 12. ✅ **Testimonials stub** — `_data/testimonials.yml` + `_includes/testimonials.html` created, wired into about layout. Needs real quotes — currently empty.
 13. ✅ **Commit unstaged changes** — path fixes committed (`5c224e5`)
 14. ✅ **Delete `about-lapipette.markdown`** — removed (`9649120`)
-15. ✅ **`client_work` category** — ARC recategorized to `client_work`, permalink fixed to `/category/client_work/` (`cefabe6`)
+15. ✅ **`client-work` category** — ARC categorized `client-work`, page at `/category/client-work/`; category values normalized to slug form, tiles prettify for display (Jun 2026)
+15b. ✅ **Markup + hygiene fixes (Jun 2026)** — fixed malformed `class id="style2"` → `class="style2"` and empty `alt` in `category.html`/`tag.html`; fixed homepage meta-description typo; lazy-loaded all inline post images; untracked all `.DS_Store` from git
 16. **Data Stories category page** — create `data-stories.md` once FC Nantes post is published (30 min)
 17. **Portfolio filter tabs** — Illustrations / Infographics / Data Stories once Data Stories has 2+ posts (1 hr)
 18. **Maxwell post** — add assets to `assets/images/maxwell/` and publish `_drafts/2022-10-30-maxwell_animation.md`

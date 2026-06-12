@@ -3,7 +3,7 @@ layout: post
 title: AA Amyloidosis Patient Infosheet
 permalink: /aaa
 date: 2025-06-30
-category: ['client work']
+category: ['client-work']
 tag: ['Portfolio']
 tools: ['Fresco', 'Photoshop','Illustrator']
 description: Information design for the Amyloidosis Research Consortium — translating a complex protein misfold cascade into a patient-accessible 2-page leaflet.
@@ -44,14 +44,14 @@ The design went through three distinct phases.
 - The design then moved into Illustrator and the visual language was established: the SAA cascade diagram, the organ involvement illustration, and the typographic system. 
 - In a 3rd stage, the layout and illustrations were refined to support the flow of information while keeping the story as simple as possible for non-experts.
 
-![First draft — content structure and rough layout](assets/images/250630_ARC/ARC_draft.png)
+![First draft — content structure and rough layout](assets/images/250630_ARC/ARC_draft.png){:loading="lazy"}
 
 Mid way through the process it was clear that the final product needed to be printed so we switched to a 2 page layout, cleared for both print (300 dpi) and web (72 dpi) export. The infosheet is accurate at the protein-biology level while remaining navigable to a non-scientist reader. 
 
 The latest, up-to-date version can be found on the ARC website. : 
 [ARC Infosheet](https://arci.org/wp-content/uploads/2025/07/AA-Amyloidosis-Infosheet.pdf) 
 
-![AA amyloidosis leaflet — final view](assets/images/250630_ARC/ARC_doublepage.png)
+![AA amyloidosis leaflet — final view](assets/images/250630_ARC/ARC_doublepage.png){:loading="lazy"}
 
 ---
 

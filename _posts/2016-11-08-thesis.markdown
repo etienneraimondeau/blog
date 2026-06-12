@@ -26,9 +26,9 @@ image: assets/images/thesis/02.png
 </div>  
 <br>
 
-![Ribosome structure illustration — EMBL Grenoble PhD thesis](assets/images/thesis/01.png)
-![mRNA translation mechanism diagram — structural biology illustration](assets/images/thesis/02.png)
-![Molecular biology figure — ribosome and mRNA pathway](assets/images/thesis/03.png)
+![Ribosome structure illustration — EMBL Grenoble PhD thesis](assets/images/thesis/01.png){:loading="lazy"}
+![mRNA translation mechanism diagram — structural biology illustration](assets/images/thesis/02.png){:loading="lazy"}
+![Molecular biology figure — ribosome and mRNA pathway](assets/images/thesis/03.png){:loading="lazy"}
 
 <div class="box alt">
 	<div class="row 50% uniform">

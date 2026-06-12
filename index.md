@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-description: "Scientific information design studio. Publication figures,mechanism of action visuals, and data visualisation for researchers and biotech companies."
+description: "Scientific information design studio. Publication figures, mechanism of action visuals, and data visualisation for researchers and biotech companies."
 image: assets/images/visualise/header-05.png
 author: null
 ---
