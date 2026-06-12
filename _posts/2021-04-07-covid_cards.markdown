@@ -39,15 +39,15 @@ I aimed to create one very simple flashcard per vaccine taking inspiration from 
 #### Early version
 I already had made summaries about the science behind each technology so I didn't explore many sketches. It was more about organising the information than exploring colours and visuals...
 <br/>
-![COVID-19 vaccine card — early sketch and information layout](assets/images/vaccine_cards/progress-01.png)
+![COVID-19 vaccine card — early sketch and information layout](assets/images/vaccine_cards/progress-01.png){:loading="lazy"}
 
 #### Final (almost) version
-![COVID-19 vaccine comparison cards — final design overview](assets/images/vaccine_cards/body1-01.png)    
+![COVID-19 vaccine comparison cards — final design overview](assets/images/vaccine_cards/body1-01.png){:loading="lazy"}
 <br/>
 Some of the data has not been published yet so the cards are not finalised and will be updated in the future. The design is however final and features 8 cards. Each vaccine technology has its own colour. The final design is tailored for smartphone screens to promote accessibility as much as possible.
 <br/>     
-![COVID-19 vaccine cards — mRNA and viral vector vaccine detail](assets/images/vaccine_cards/body2-01.png)
-![COVID-19 vaccine cards — protein subunit and inactivated virus vaccine detail](assets/images/vaccine_cards/body3-01.png)
+![COVID-19 vaccine cards — mRNA and viral vector vaccine detail](assets/images/vaccine_cards/body2-01.png){:loading="lazy"}
+![COVID-19 vaccine cards — protein subunit and inactivated virus vaccine detail](assets/images/vaccine_cards/body3-01.png){:loading="lazy"}
 
 
 #### Free Download and Translations
@@ -63,14 +63,14 @@ Two versions are available in english listing efficacies vs disease severity or 
 <!--![Card progress](assets/images/vaccine_cards/en/210308_vaccines_cards-10.png#thumbnail)-->
 _last updated in Sept 2021_  
 [Download the cards as .pdf](assets/images/vaccine_cards/en/210509_vaccines_cards_V2.pdf)<br/>
-![COVID-19 vaccine card 1 of 8 — Pfizer-BioNTech mRNA vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-01.png#med-thumbnail)
-![COVID-19 vaccine card 2 of 8 — Moderna mRNA vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-02.png#med-thumbnail)
-![COVID-19 vaccine card 3 of 8 — AstraZeneca viral vector vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-03.png#med-thumbnail)
-![COVID-19 vaccine card 4 of 8 — Johnson & Johnson viral vector vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-04.png#med-thumbnail)
-![COVID-19 vaccine card 5 of 8 — Novavax protein subunit vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-05.png#med-thumbnail)
-![COVID-19 vaccine card 6 of 8 — Sinopharm inactivated virus vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-06.png#med-thumbnail)
-![COVID-19 vaccine card 7 of 8 — Sinovac inactivated virus vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-07.png#med-thumbnail)
-![COVID-19 vaccine card 8 of 8 — vaccine comparison summary](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-08.png#med-thumbnail)
+![COVID-19 vaccine card 1 of 8 — Pfizer-BioNTech mRNA vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-01.png#med-thumbnail){:loading="lazy"}
+![COVID-19 vaccine card 2 of 8 — Moderna mRNA vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-02.png#med-thumbnail){:loading="lazy"}
+![COVID-19 vaccine card 3 of 8 — AstraZeneca viral vector vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-03.png#med-thumbnail){:loading="lazy"}
+![COVID-19 vaccine card 4 of 8 — Johnson & Johnson viral vector vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-04.png#med-thumbnail){:loading="lazy"}
+![COVID-19 vaccine card 5 of 8 — Novavax protein subunit vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-05.png#med-thumbnail){:loading="lazy"}
+![COVID-19 vaccine card 6 of 8 — Sinopharm inactivated virus vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-06.png#med-thumbnail){:loading="lazy"}
+![COVID-19 vaccine card 7 of 8 — Sinovac inactivated virus vaccine](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-07.png#med-thumbnail){:loading="lazy"}
+![COVID-19 vaccine card 8 of 8 — vaccine comparison summary](assets/images/vaccine_cards/en/V3/210915_vaccines_cards_V4-08.png#med-thumbnail){:loading="lazy"}
 
 ## Old and non-updated vaccine vaccine cards
 **English 'V2'**<br/>
@@ -218,6 +218,6 @@ _last updated in March 2021_
 - Sinovac
 - Bharat Biotech
 
-![COVID-19 vaccine illustrated flashcards — science communication project by LaPipette](assets/images/vaccine_cards/header-01.png)
+![COVID-19 vaccine illustrated flashcards — science communication project by LaPipette](assets/images/vaccine_cards/header-01.png){:loading="lazy"}
 
  Thanks for reading! [Let us know what you think!](contact/)

@@ -8,7 +8,7 @@
 				{% if tile_count < site.tiles-count %}
 				<article>
 					<header class="major">
-						<p>{{ post.category | join:' | ' }}</p>
+						<p>{{ post.category | join:' | ' | replace:'-',' ' | capitalize }}</p>
 						<h3>{{ post.title }}</h3>
 						<p>{{ post.description }}</p>
 					</header>
@@ -26,7 +26,7 @@
 		{% for post in site.posts limit:site.tiles-count %}
 		<article>
 				<header class="major">
-						<p>{{ post.category | join:' | ' }}</p>
+						<p>{{ post.category | join:' | ' | replace:'-',' ' | capitalize }}</p>
 						<h3>{{ post.title }}</h3>
 						<p>{{ post.description }}</p>
 				</header>
