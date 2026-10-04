@@ -10,7 +10,6 @@ description: "COVID-19 vaccine illustrated flashcards — science communication 
 image: assets/images/vaccine_cards/header-01.png
 ---
 
-{% include text-expand.html %}
 
 _Last updated on 09/05/2021 - Translations can be found [here](#free-download-and-translations)_
 
@@ -19,9 +18,9 @@ _Last updated on 09/05/2021 - Translations can be found [here](#free-download-an
 		<h4>Client</h4>
 		<p>Personal</p>
     <h4>Tools</h4>
-    <p>Illustrator</p>
+    <p>{{ page.tools | join: ', ' }}</p>
 		<h4>Category</h4>
-    	<p><a href="{{ site.baseurl }}/category/{{ page.category[0] | downcase }}/" class="link">{{ page.category }}</a></p>
+    	<p><a href="{{ page.category[0] | prepend: '/category/' | append: '/' | relative_url }}" class="link">{{ page.category | join: ', ' | replace: '-', ' ' | capitalize }}</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Context</h4>
@@ -108,7 +107,7 @@ _last updated in March 2021_
 _last updated in March 2021_  
 [Download the cards as .zip](assets/images/vaccine_cards/br-pt/LaPipette_vaccines_cards_Pt.zip)<br/>
 
-**Italian - Italiano 'V1'** translated by [Renzo Toffolo](www.farmaciaigea.it)<br/>
+**Italian - Italiano 'V1'** translated by [Renzo Toffolo](https://www.farmaciaigea.it)<br/>
 _last updated in March 2021_  
 [Download the cards as .zip](assets/images/vaccine_cards/italiano/LaPipette_vaccines_cards_IT.zip)<br/>
 

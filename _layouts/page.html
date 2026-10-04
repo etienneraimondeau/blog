@@ -23,14 +23,13 @@
 			<h1>{{ page.title }}</h1>
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ page.image | relative_url }}" alt="{{ page.title }}" /></span>{% endif %}
-		<p>{{ content }}</p>
+		{{ content }}
 	</div>
 </section>
 
 </div>
 
     {% include footer.html %}
-    {% include text-expand.html %}
 
 </body>
 

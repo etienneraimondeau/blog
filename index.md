@@ -6,7 +6,7 @@ image: assets/images/visualise/header-05.png
 author: null
 ---
 
-I'm Etienne — an Application Science and Product leader and scientific information designer based in Oxford. I work with researchers and biotech companies to turn complex biology and data into visuals that are accurate, clear, and worth looking at.
+I'm Etienne — a PhD biochemist and scientific information designer based in Oxford. I work with researchers and biotech companies to turn complex biology and data into visuals that are accurate, clear, and worth looking at.
 
 <ul class="actions">
   <li><a href="/about/" class="button special">What I do</a></li>

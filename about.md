@@ -12,7 +12,7 @@ description: "PhD biochemist and scientific information designer based in Oxford
 
 ## Who I am
 
-Hi, I'm Etienne. I have a PhD in biochemistry and structural biology from EMBL (European Molecular Biology Laboratory) in Grenoble, where I spent years working on protein structure and molecular mechanisms. After my doctorate I moved into biotech R&D — early-stage drug discovery, translational research, and eventually product management.
+Hi, I'm Etienne. I have a PhD in biochemistry and structural biology from EMBL (European Molecular Biology Laboratory) in Grenoble, where I spent years working on protein structure and molecular mechanisms. After my doctorate I moved into biotech R&D — early-stage drug discovery and translational research.
 
 That combination — deep scientific training, commercial biotech experience, and a lifelong obsession with making things look beautiful — is what LaPipette is built on.
 

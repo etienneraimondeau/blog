@@ -33,6 +33,23 @@ redbubble_url: https://www.redbubble.com/people/LaPipette/
 
 # build settings
 markdown: kramdown
+future: true
+
+# Files that must never be published to lapipette.com.
+# (GitHub Pages runs Jekyll 3, where this list replaces the defaults — keep the Bundler entries.)
+exclude:
+  - CLAUDE.md
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - forty_jekyll_theme.gemspec
+  - Gemfile
+  - Gemfile.lock
+  - .bundle/
+  - vendor/
+  - .claude/
+  - .jekyll-cache/
+  - .sass-cache/
 
 plugins:
   - jekyll-sitemap
