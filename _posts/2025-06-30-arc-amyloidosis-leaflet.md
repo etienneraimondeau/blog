@@ -16,9 +16,9 @@ nav-menu: false
 		<h4>Client</h4>
 		<p>Amyloidosis Research Consortium (ARC)</p>
     <h4>Tools</h4>
-    <p>Illustrator, Fresco </p>
+    <p>{{ page.tools | join: ', ' }}</p>
 		<h4>Category</h4>
-    	<p><a href="{{ site.baseurl }}/category/{{ page.category[0] | downcase | replace: ' ', '_' }}/" class="link">{{ page.category }}</a></p>
+    	<p><a href="{{ page.category[0] | prepend: '/category/' | append: '/' | relative_url }}" class="link">{{ page.category | join: ', ' | replace: '-', ' ' | capitalize }}</a></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h4>Context</h4>

@@ -1,4 +1,4 @@
-{% if page.layout == 'post' %}
+{% if page.collection == 'posts' %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -39,9 +39,10 @@
   "description": {{ site.description | jsonify }},
   "logo": {{ "/assets/images/favicon.svg" | absolute_url | jsonify }},
   "sameAs": [
-    "{{ site.instagram_url }}",
-    "{{ site.behance_url }}",
-    "{{ site.redbubble_url }}"
+    {{ site.linkedin_url | jsonify }},
+    {{ site.instagram_url | jsonify }},
+    {{ site.behance_url | jsonify }},
+    {{ site.redbubble_url | jsonify }}
   ]
 }
 </script>
@@ -56,7 +57,7 @@
   "founder": {
     "@type": "Person",
     "name": "Etienne Raimondeau",
-    "jobTitle": "Scientific Information Designer & Biotech PM",
+    "jobTitle": "PhD Biochemist & Scientific Information Designer",
     "alumniOf": { "@type": "Organization", "name": "EMBL Grenoble" }
   },
   "areaServed": "GB",
